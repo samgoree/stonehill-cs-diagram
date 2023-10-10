@@ -1,0 +1,24 @@
+{
+	"CSC 102":{
+		"name": "Introduction to Programming",
+		"description":"An introduction to computers, programming and problem solving using a modern programming language such as Python, Java, or Visual Basic.",
+		"topics":[
+			"Python programming",
+			"Python lists, sets and dictionaries",
+			"File I/O and parsing",
+			"Python data analysis ecosystem"
+		]
+	},
+	"CSC 103":{
+		"name": "Computer Science I",
+		"description":"An introduction to programming and problem solving using Java.",
+		"topics":[
+			"Java programming",
+			"Recursion",
+			"Linear/binary search",
+			"Sorting algorithms",
+			"Big O notation"
+		]
+	}
+
+}
