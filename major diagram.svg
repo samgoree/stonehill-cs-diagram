@@ -1334,15 +1334,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.2560745"
-     inkscape:cx="209.38248"
-     inkscape:cy="389.70618"
+     inkscape:zoom="1.0512982"
+     inkscape:cx="409.49372"
+     inkscape:cy="241.13045"
      inkscape:window-width="1472"
      inkscape:window-height="806"
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1">
+     inkscape:current-layer="a15">
     <inkscape:page
        x="0"
        y="0"
@@ -1559,56 +1559,64 @@
        style="fill:url(#linearGradient38);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath38)" />
-    <text
-       id="text38"
-       xml:space="preserve"
-       transform="translate(729.74589,375.62463)"
-       clip-path="url(#clipPath39)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 45.481335 52.814667 56.877335 60.544003 71.133331 77.630669 81.693336 88.190666"
-         y="0"
-         sodipodi:role="line"
-         id="tspan38">CSC 211: Data </tspan></text>
-    <text
-       id="text39"
-       xml:space="preserve"
-       transform="translate(744.13716,393.62463)"
-       clip-path="url(#clipPath40)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.1546669 12.217334 17.101334 24.434668 30.932001 34.994667 42.327999 47.212002 53.709335"
-         y="0"
-         sodipodi:role="line"
-         id="tspan39">Structures</tspan></text>
+    <a
+       id="a4"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20211">
+      <text
+         id="text38"
+         xml:space="preserve"
+         transform="translate(729.74589,375.62463)"
+         clip-path="url(#clipPath39)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 45.481335 52.814667 56.877335 60.544003 71.133331 77.630669 81.693336 88.190666"
+           y="0"
+           sodipodi:role="line"
+           id="tspan38">CSC 211: Data </tspan></text>
+      <text
+         id="text39"
+         xml:space="preserve"
+         transform="translate(744.13716,393.62463)"
+         clip-path="url(#clipPath40)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.1546669 12.217334 17.101334 24.434668 30.932001 34.994667 42.327999 47.212002 53.709335"
+           y="0"
+           sodipodi:role="line"
+           id="tspan39">Structures</tspan></text>
+    </a>
     <path
        id="path41"
        d="m 109908,134446.11 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.79 c 1347.33,0 2639.49,535.23 3592.19,1487.93 952.7,952.69 1487.92,2244.85 1487.92,3592.18 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.11,5080.11 H 114988.1 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
        style="fill:url(#linearGradient42);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath42)" />
-    <text
-       id="text42"
-       xml:space="preserve"
-       transform="translate(314.52296,375.62331)"
-       clip-path="url(#clipPath43)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 75.73867 81.444 87.941338 92.825333 99.32267 103.38534 109.88267"
-         y="0"
-         sodipodi:role="line"
-         id="tspan42">CSC 201: Discrete </tspan></text>
-    <text
-       id="text43"
-       xml:space="preserve"
-       transform="translate(349.73947,393.62331)"
-       clip-path="url(#clipPath44)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 13.038667 19.536001 23.598667 30.932001 34.598667"
-         y="0"
-         sodipodi:role="line"
-         id="tspan43">Math I</tspan></text>
+    <a
+       id="a2"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20201%20-%20202">
+      <text
+         id="text42"
+         xml:space="preserve"
+         transform="translate(314.52296,375.62331)"
+         clip-path="url(#clipPath43)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 75.73867 81.444 87.941338 92.825333 99.32267 103.38534 109.88267"
+           y="0"
+           sodipodi:role="line"
+           id="tspan42">CSC 201: Discrete </tspan></text>
+      <text
+         id="text43"
+         xml:space="preserve"
+         transform="translate(349.73947,393.62331)"
+         clip-path="url(#clipPath44)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 13.038667 19.536001 23.598667 30.932001 34.598667"
+           y="0"
+           sodipodi:role="line"
+           id="tspan43">Math I</tspan></text>
+    </a>
     <path
        id="path45"
        d="m 31834,134446.11 v 0 c 0,-2805.67 2274.438,-5080.11 5080.1,-5080.11 h 51567.8 c 1347.33,0 2639.47,535.23 3592.17,1487.93 952.7,952.69 1487.93,2244.85 1487.93,3592.18 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.1,5080.11 H 36914.1 c -2805.662,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
@@ -1616,58 +1624,66 @@
        transform="scale(0.00262467)"
        clip-path="url(#clipPath46)" />
     <a
-       id="a259">
+       id="a1"
+       xlink:href="http://catalog.stonehill.edu/preview_course_nopop.php?catoid=21&amp;coid=37957&amp;">
+      <a
+         id="a259">
+        <text
+           id="text46"
+           xml:space="preserve"
+           transform="translate(105.12085,375.62331)"
+           clip-path="url(#clipPath47)"
+           style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+             style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+             x="0 13.038667 21.985334 32.574669 36.241333 43.574669 50.908001 58.241333 62.304001 65.970665 74.125336 78.188004 84.685333 88.748001 92.810669 98.515999 102.57867 106.64133 113.13867 118.844"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">MTH 225: Statistics </tspan></text>
+      </a>
       <text
-         id="text46"
+         id="text47"
          xml:space="preserve"
-         transform="translate(105.12085,375.62331)"
-         clip-path="url(#clipPath47)"
+         transform="translate(131.39905,393.62331)"
+         clip-path="url(#clipPath48)"
          style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
            style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           x="0 13.038667 21.985334 32.574669 36.241333 43.574669 50.908001 58.241333 62.304001 65.970665 74.125336 78.188004 84.685333 88.748001 92.810669 98.515999 102.57867 106.64133 113.13867 118.844"
+           x="0 4.8840003 12.217334 17.101334 20.768 28.922667 35.420002 39.482666 45.98 53.313335 59.810669"
            y="0"
            sodipodi:role="line"
-           id="tspan46">MTH 225: Statistics </tspan></text>
+           id="tspan47">for Science</tspan></text>
     </a>
-    <text
-       id="text47"
-       xml:space="preserve"
-       transform="translate(131.39905,393.62331)"
-       clip-path="url(#clipPath48)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 4.8840003 12.217334 17.101334 20.768 28.922667 35.420002 39.482666 45.98 53.313335 59.810669"
-         y="0"
-         sodipodi:role="line"
-         id="tspan47">for Science</tspan></text>
     <path
        id="path49"
        d="m 187982,134446.11 v 0 c 0,-2805.67 2274.44,-5080.11 5080.11,-5080.11 h 51567.78 c 1347.33,0 2639.49,535.23 3592.19,1487.93 952.7,952.69 1487.92,2244.85 1487.92,3592.18 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.11,5080.11 h -51567.78 c -2805.67,0 -5080.11,-2274.44 -5080.11,-5080.11 z"
        style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath50)" />
-    <text
-       id="text50"
-       xml:space="preserve"
-       transform="translate(519.44161,375.62331)"
-       clip-path="url(#clipPath51)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 75.73867 81.444 87.941338 92.825333 99.32267 103.38534 109.88267"
-         y="0"
-         sodipodi:role="line"
-         id="tspan50">CSC 202: Discrete </tspan></text>
-    <text
-       id="text51"
-       xml:space="preserve"
-       transform="translate(552.21779,393.62331)"
-       clip-path="url(#clipPath52)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 13.038667 19.536001 23.598667 30.932001 34.598667 39.482666"
-         y="0"
-         sodipodi:role="line"
-         id="tspan51">Math II</tspan></text>
+    <a
+       id="a3"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20201%20-%20202">
+      <text
+         id="text50"
+         xml:space="preserve"
+         transform="translate(519.44161,375.62331)"
+         clip-path="url(#clipPath51)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 75.73867 81.444 87.941338 92.825333 99.32267 103.38534 109.88267"
+           y="0"
+           sodipodi:role="line"
+           id="tspan50">CSC 202: Discrete </tspan></text>
+      <text
+         id="text51"
+         xml:space="preserve"
+         transform="translate(552.21779,393.62331)"
+         clip-path="url(#clipPath52)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 13.038667 19.536001 23.598667 30.932001 34.598667 39.482666"
+           y="0"
+           sodipodi:role="line"
+           id="tspan51">Math II</tspan></text>
+    </a>
     <path
        id="path53"
        d="m 171636,144606 h 16344"
@@ -1692,28 +1708,32 @@
        style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath60)" />
-    <text
-       id="text60"
-       xml:space="preserve"
-       transform="translate(714.00525,535.67056)"
-       clip-path="url(#clipPath61)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 79.009338 85.506668 90.390671 96.888 100.95067 105.01334 112.34667 119.68"
-         y="0"
-         sodipodi:role="line"
-         id="tspan60">CSC 314: Operating </tspan></text>
-    <text
-       id="text61"
-       xml:space="preserve"
-       transform="translate(749.41856,553.67056)"
-       clip-path="url(#clipPath62)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.1546669 15.488 21.193335 25.256001 31.753334 43.149334"
-         y="0"
-         sodipodi:role="line"
-         id="tspan61">Systems</tspan></text>
+    <a
+       id="a7"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20314">
+      <text
+         id="text60"
+         xml:space="preserve"
+         transform="translate(714.00525,535.67056)"
+         clip-path="url(#clipPath61)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 79.009338 85.506668 90.390671 96.888 100.95067 105.01334 112.34667 119.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan60">CSC 314: Operating </tspan></text>
+      <text
+         id="text61"
+         xml:space="preserve"
+         transform="translate(749.41856,553.67056)"
+         clip-path="url(#clipPath62)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.1546669 15.488 21.193335 25.256001 31.753334 43.149334"
+           y="0"
+           sodipodi:role="line"
+           id="tspan61">Systems</tspan></text>
+    </a>
     <path
        id="path63"
        d="m 2600,20642.727 v 0 C 2600,14365.333 7688.8335,9276.5 13966.228,9276.5 h 45463.545 v 0 c 3014.512,0 5905.557,1197.51 8037.137,3329.091 2131.58,2131.581 3329.09,5022.626 3329.09,8037.136 V 90262.27 c 0,6277.394 -5088.836,11366.23 -11366.227,11366.23 H 13966.228 C 7688.8335,101628.5 2600,96539.664 2600,90262.27 Z"
@@ -1945,123 +1965,139 @@
        style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath118)" />
-    <text
-       id="text118"
-       xml:space="preserve"
-       transform="translate(68.176317,536.62724)"
-       clip-path="url(#clipPath119)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 60.822666 69.769333 77.102669 83.599998 90.933334 95.817337 103.15067 106.81734 114.15067 119.03467"
-         y="0"
-         sodipodi:role="line"
-         id="tspan118">CSC 384: Theory of </tspan></text>
-    <text
-       id="text119"
-       xml:space="preserve"
-       transform="translate(89.416339,554.62724)"
-       clip-path="url(#clipPath120)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 57.786667 61.849335 69.182671"
-         y="0"
-         sodipodi:role="line"
-         id="tspan119">Computation</tspan></text>
+    <a
+       id="a5"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20384">
+      <text
+         id="text118"
+         xml:space="preserve"
+         transform="translate(68.176317,536.62724)"
+         clip-path="url(#clipPath119)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 60.822666 69.769333 77.102669 83.599998 90.933334 95.817337 103.15067 106.81734 114.15067 119.03467"
+           y="0"
+           sodipodi:role="line"
+           id="tspan118">CSC 384: Theory of </tspan></text>
+      <text
+         id="text119"
+         xml:space="preserve"
+         transform="translate(89.416339,554.62724)"
+         clip-path="url(#clipPath120)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 57.786667 61.849335 69.182671"
+           y="0"
+           sodipodi:role="line"
+           id="tspan119">Computation</tspan></text>
+    </a>
     <path
        id="path121"
        d="m 103894,195787.11 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.79 c 1347.33,0 2639.49,535.22 3592.19,1487.92 952.7,952.7 1487.92,2244.86 1487.92,3592.19 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.11,5080.11 H 108974.1 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
        style="fill:#cfe2f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath122)" />
-    <text
-       id="text122"
-       xml:space="preserve"
-       transform="translate(293.84324,527.62332)"
-       clip-path="url(#clipPath123)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 78.188004 89.584 96.917336 104.25067 108.31334 114.81067 119.69467"
-         y="0"
-         sodipodi:role="line"
-         id="tspan122">CSC 221: Computer </tspan></text>
-    <text
-       id="text123"
-       xml:space="preserve"
-       transform="translate(324.18984,545.62332)"
-       clip-path="url(#clipPath124)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.9466667 16.280001 23.613335 27.676001 34.173332 37.84 44.337334 51.67067 59.004002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan123">Logic and </tspan></text>
-    <text
-       id="text124"
-       xml:space="preserve"
-       transform="translate(315.57366,563.62332)"
-       clip-path="url(#clipPath125)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 15.209333 22.542667 29.040001 36.373333 40.436001 46.933334 53.430668 57.493336 61.556 68.889336"
-         y="0"
-         sodipodi:role="line"
-         id="tspan124">Organization</tspan></text>
+    <a
+       id="a6"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20221">
+      <text
+         id="text122"
+         xml:space="preserve"
+         transform="translate(293.84324,527.62332)"
+         clip-path="url(#clipPath123)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 78.188004 89.584 96.917336 104.25067 108.31334 114.81067 119.69467"
+           y="0"
+           sodipodi:role="line"
+           id="tspan122">CSC 221: Computer </tspan></text>
+      <text
+         id="text123"
+         xml:space="preserve"
+         transform="translate(324.18984,545.62332)"
+         clip-path="url(#clipPath124)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.9466667 16.280001 23.613335 27.676001 34.173332 37.84 44.337334 51.67067 59.004002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan123">Logic and </tspan></text>
+      <text
+         id="text124"
+         xml:space="preserve"
+         transform="translate(315.57366,563.62332)"
+         clip-path="url(#clipPath125)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 15.209333 22.542667 29.040001 36.373333 40.436001 46.933334 53.430668 57.493336 61.556 68.889336"
+           y="0"
+           sodipodi:role="line"
+           id="tspan124">Organization</tspan></text>
+    </a>
     <path
        id="path126"
        d="m 263973,241516.61 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.8 c 1347.32,0 2639.48,535.22 3592.16,1487.92 952.72,952.7 1487.94,2244.86 1487.94,3592.19 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.1,5080.11 h -51567.8 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
        style="fill:#cfe2f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath127)" />
-    <text
-       id="text127"
-       xml:space="preserve"
-       transform="translate(710.5993,656.64824)"
-       clip-path="url(#clipPath128)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 45.481335 52.814667 56.877335 59.737335 70.326668 74.389336 81.722672 89.056 93.940002 98.00267 102.06534 109.39867 120.79467 126.5"
-         y="0"
-         sodipodi:role="line"
-         id="tspan127">CSC 311: Algorithms </tspan></text>
-    <text
-       id="text128"
-       xml:space="preserve"
-       transform="translate(726.83305,674.64824)"
-       clip-path="url(#clipPath129)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 6.4973335 13.830667 21.164 24.830667 34.598667 41.931999 53.328003 60.661335 64.723999 71.221336 78.554672 82.617332 86.68"
-         y="0"
-         sodipodi:role="line"
-         id="tspan128">and Complexity</tspan></text>
+    <a
+       id="a20"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20311">
+      <text
+         id="text127"
+         xml:space="preserve"
+         transform="translate(710.5993,656.64824)"
+         clip-path="url(#clipPath128)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 45.481335 52.814667 56.877335 59.737335 70.326668 74.389336 81.722672 89.056 93.940002 98.00267 102.06534 109.39867 120.79467 126.5"
+           y="0"
+           sodipodi:role="line"
+           id="tspan127">CSC 311: Algorithms </tspan></text>
+      <text
+         id="text128"
+         xml:space="preserve"
+         transform="translate(726.83305,674.64824)"
+         clip-path="url(#clipPath129)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 6.4973335 13.830667 21.164 24.830667 34.598667 41.931999 53.328003 60.661335 64.723999 71.221336 78.554672 82.617332 86.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan128">and Complexity</tspan></text>
+    </a>
     <path
        id="path130"
        d="m 263973,287608.1 v 0 c 0,-2805.66 2274.44,-5080.1 5080.1,-5080.1 h 51567.8 c 1347.32,0 2639.48,535.22 3592.16,1487.94 952.72,952.68 1487.94,2244.84 1487.94,3592.16 v 20319.8 c 0,2805.66 -2274.44,5080.1 -5080.1,5080.1 h -51567.8 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.1 z"
        style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath131)" />
-    <text
-       id="text131"
-       xml:space="preserve"
-       transform="translate(713.9981,777.62334)"
-       clip-path="url(#clipPath132)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 77.352005 84.685333 90.390671 94.453339 101.78667 109.12 115.61733 119.68"
-         y="0"
-         sodipodi:role="line"
-         id="tspan131">CSC 400: Capstone: </tspan></text>
-    <text
-       id="text132"
-       xml:space="preserve"
-       transform="translate(709.75079,795.62335)"
-       clip-path="url(#clipPath133)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.1546669 15.488 20.372 24.434668 35.024002 41.521336 46.405334 52.902668 56.569336 65.515999 72.849335 80.182671 84.245338 91.578667 98.076004 104.57333 109.45734 113.52 120.85333"
-         y="0"
-         sodipodi:role="line"
-         id="tspan132">Software Engineering</tspan></text>
+    <a
+       id="a21"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20400">
+      <text
+         id="text131"
+         xml:space="preserve"
+         transform="translate(713.9981,777.62334)"
+         clip-path="url(#clipPath132)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 77.352005 84.685333 90.390671 94.453339 101.78667 109.12 115.61733 119.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan131">CSC 400: Capstone: </tspan></text>
+      <text
+         id="text132"
+         xml:space="preserve"
+         transform="translate(709.75079,795.62335)"
+         clip-path="url(#clipPath133)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.1546669 15.488 20.372 24.434668 35.024002 41.521336 46.405334 52.902668 56.569336 65.515999 72.849335 80.182671 84.245338 91.578667 98.076004 104.57333 109.45734 113.52 120.85333"
+           y="0"
+           sodipodi:role="line"
+           id="tspan132">Software Engineering</tspan></text>
+    </a>
     <path
        id="path134"
        d="m 65845.664,270606.7 v 0 c 0,-1981.64 1606.436,-3588.08 3588.07,-3588.08 h 34523.856 c 951.62,0 1864.26,378.04 2537.15,1050.91 672.89,672.91 1050.92,1585.53 1050.92,2537.17 v 14351.83 c 0,1981.67 -1606.43,3588.09 -3588.07,3588.09 H 69433.734 c -1981.634,0 -3588.07,-1606.42 -3588.07,-3588.09 z"
@@ -2135,479 +2171,527 @@
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath144)" />
-    <text
-       id="text144"
-       xml:space="preserve"
-       transform="translate(324.98373,638.28866)"
-       clip-path="url(#clipPath145)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan144">CSC 304: </tspan></text>
-    <text
-       id="text145"
-       xml:space="preserve"
-       transform="translate(324.38617,656.28866)"
-       clip-path="url(#clipPath146)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 58.608002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan145">Computer </tspan></text>
-    <text
-       id="text146"
-       xml:space="preserve"
-       transform="translate(317.07594,674.28867)"
-       clip-path="url(#clipPath147)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 15.473333 21.970667 29.304001 33.366669 37.429333 43.926666 50.424 54.486668 61.82 66.704002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan146">Architecture</tspan></text>
+    <a
+       id="a10"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20304">
+      <text
+         id="text144"
+         xml:space="preserve"
+         transform="translate(324.98373,638.28866)"
+         clip-path="url(#clipPath145)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan144">CSC 304: </tspan></text>
+      <text
+         id="text145"
+         xml:space="preserve"
+         transform="translate(324.38617,656.28866)"
+         clip-path="url(#clipPath146)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 58.608002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan145">Computer </tspan></text>
+      <text
+         id="text146"
+         xml:space="preserve"
+         transform="translate(317.07594,674.28867)"
+         clip-path="url(#clipPath147)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 15.473333 21.970667 29.304001 33.366669 37.429333 43.926666 50.424 54.486668 61.82 66.704002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan146">Architecture</tspan></text>
+    </a>
     <path
        id="path148"
        d="m 161969.98,240934.58 v 0 c 0,-1981.64 1606.44,-3588.08 3588.08,-3588.08 h 34523.86 c 951.61,0 1864.25,378.03 2537.14,1050.92 672.91,672.89 1050.92,1585.53 1050.92,2537.16 v 14351.84 c 0,1981.64 -1606.42,3588.08 -3588.06,3588.08 h -34523.86 c -1981.64,0 -3588.08,-1606.44 -3588.08,-3588.08 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath149)" />
-    <text
-       id="text149"
-       xml:space="preserve"
-       transform="translate(451.13113,638.28866)"
-       clip-path="url(#clipPath150)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan149">CSC 312: </tspan></text>
-    <text
-       id="text150"
-       xml:space="preserve"
-       transform="translate(452.16165,656.28866)"
-       clip-path="url(#clipPath151)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.101334 28.497334 35.830666 39.893333 43.956001 50.453335 55.337334"
-         y="0"
-         sodipodi:role="line"
-         id="tspan150">Compiler </tspan></text>
-    <text
-       id="text151"
-       xml:space="preserve"
-       transform="translate(459.08186,674.28867)"
-       clip-path="url(#clipPath152)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 17.086666 22.792 26.854668 34.188"
-         y="0"
-         sodipodi:role="line"
-         id="tspan151">Design</tspan></text>
+    <a
+       id="a11"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20312">
+      <text
+         id="text149"
+         xml:space="preserve"
+         transform="translate(451.13113,638.28866)"
+         clip-path="url(#clipPath150)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan149">CSC 312: </tspan></text>
+      <text
+         id="text150"
+         xml:space="preserve"
+         transform="translate(452.16165,656.28866)"
+         clip-path="url(#clipPath151)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.101334 28.497334 35.830666 39.893333 43.956001 50.453335 55.337334"
+           y="0"
+           sodipodi:role="line"
+           id="tspan150">Compiler </tspan></text>
+      <text
+         id="text151"
+         xml:space="preserve"
+         transform="translate(459.08186,674.28867)"
+         clip-path="url(#clipPath152)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 17.086666 22.792 26.854668 34.188"
+           y="0"
+           sodipodi:role="line"
+           id="tspan151">Design</tspan></text>
+    </a>
     <path
        id="path153"
        d="m 161969.98,270606.7 v 0 c 0,-1981.64 1606.44,-3588.08 3588.08,-3588.08 h 34523.86 c 951.61,0 1864.25,378.04 2537.14,1050.91 672.91,672.91 1050.92,1585.53 1050.92,2537.17 v 14351.83 c 0,1981.67 -1606.42,3588.09 -3588.06,3588.09 h -34523.86 c -1981.64,0 -3588.08,-1606.42 -3588.08,-3588.09 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath154)" />
-    <text
-       id="text154"
-       xml:space="preserve"
-       transform="translate(451.13113,716.16824)"
-       clip-path="url(#clipPath155)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan154">CSC 321: </tspan></text>
-    <text
-       id="text155"
-       xml:space="preserve"
-       transform="translate(466.00923,734.16824)"
-       clip-path="url(#clipPath156)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 17.086666 21.149334 27.646667"
-         y="0"
-         sodipodi:role="line"
-         id="tspan155">Data </tspan></text>
-    <text
-       id="text156"
-       xml:space="preserve"
-       transform="translate(441.20914,752.16824)"
-       clip-path="url(#clipPath157)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7093334 13.772 19.477333 26.810667 33.308002 37.370667 41.433334 47.930668 54.428001 58.490669 62.553333 69.886665"
-         y="0"
-         sodipodi:role="line"
-         id="tspan156">Visualization</tspan></text>
+    <a
+       id="a14"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20321">
+      <text
+         id="text154"
+         xml:space="preserve"
+         transform="translate(451.13113,716.16824)"
+         clip-path="url(#clipPath155)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan154">CSC 321: </tspan></text>
+      <text
+         id="text155"
+         xml:space="preserve"
+         transform="translate(466.00923,734.16824)"
+         clip-path="url(#clipPath156)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 17.086666 21.149334 27.646667"
+           y="0"
+           sodipodi:role="line"
+           id="tspan155">Data </tspan></text>
+      <text
+         id="text156"
+         xml:space="preserve"
+         transform="translate(441.20914,752.16824)"
+         clip-path="url(#clipPath157)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7093334 13.772 19.477333 26.810667 33.308002 37.370667 41.433334 47.930668 54.428001 58.490669 62.553333 69.886665"
+           y="0"
+           sodipodi:role="line"
+           id="tspan156">Visualization</tspan></text>
+    </a>
     <path
        id="path158"
        d="m 65845.664,240934.58 v 0 c 0,-1981.64 1606.436,-3588.08 3588.07,-3588.08 h 34523.856 c 951.62,0 1864.26,378.03 2537.15,1050.92 672.89,672.89 1050.92,1585.53 1050.92,2537.16 v 14351.84 c 0,1981.64 -1606.43,3588.08 -3588.07,3588.08 H 69433.734 c -1981.634,0 -3588.07,-1606.44 -3588.07,-3588.08 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath159)" />
-    <text
-       id="text159"
-       xml:space="preserve"
-       transform="translate(198.83632,638.28866)"
-       clip-path="url(#clipPath160)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan159">CSC 322: </tspan></text>
-    <text
-       id="text160"
-       xml:space="preserve"
-       transform="translate(201.90998,656.28866)"
-       clip-path="url(#clipPath161)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 13.038667 19.536001 26.033335 33.366669 37.429333 44.762669 51.260002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan160">Machine </tspan></text>
-    <text
-       id="text161"
-       xml:space="preserve"
-       transform="translate(201.09773,674.28867)"
-       clip-path="url(#clipPath162)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.9466667 15.444 21.941334 26.825335 34.158669 38.221333 45.554668"
-         y="0"
-         sodipodi:role="line"
-         id="tspan161">Learning</tspan></text>
+    <a
+       id="a9"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20314">
+      <text
+         id="text159"
+         xml:space="preserve"
+         transform="translate(198.83632,638.28866)"
+         clip-path="url(#clipPath160)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan159">CSC 322: </tspan></text>
+      <text
+         id="text160"
+         xml:space="preserve"
+         transform="translate(201.90998,656.28866)"
+         clip-path="url(#clipPath161)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 13.038667 19.536001 26.033335 33.366669 37.429333 44.762669 51.260002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan160">Machine </tspan></text>
+      <text
+         id="text161"
+         xml:space="preserve"
+         transform="translate(201.09773,674.28867)"
+         clip-path="url(#clipPath162)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.9466667 15.444 21.941334 26.825335 34.158669 38.221333 45.554668"
+           y="0"
+           sodipodi:role="line"
+           id="tspan161">Learning</tspan></text>
+    </a>
     <path
        id="path163"
        d="m 113907.83,270606.7 v 0 c 0,-1981.64 1606.43,-3588.08 3588.07,-3588.08 h 34523.85 c 951.63,0 1864.27,378.04 2537.15,1050.91 672.9,672.91 1050.93,1585.53 1050.93,2537.17 v 14351.83 c 0,1981.67 -1606.44,3588.09 -3588.08,3588.09 H 117495.9 c -1981.64,0 -3588.07,-1606.42 -3588.07,-3588.09 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath164)" />
-    <text
-       id="text164"
-       xml:space="preserve"
-       transform="translate(324.98373,716.16824)"
-       clip-path="url(#clipPath165)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan164">CSC 323: </tspan></text>
-    <text
-       id="text165"
-       xml:space="preserve"
-       transform="translate(313.39399,734.16824)"
-       clip-path="url(#clipPath166)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.1546669 13.038667 20.372 27.705334 32.589333 39.086666 50.482666 61.87867 65.941338 73.274666 80.608002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan165">Programming </tspan></text>
-    <text
-       id="text166"
-       xml:space="preserve"
-       transform="translate(321.95301,752.16824)"
-       clip-path="url(#clipPath167)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.9466667 15.444 22.777334 30.110668 37.444 43.941334 51.27467 57.772003"
-         y="0"
-         sodipodi:role="line"
-         id="tspan166">Languages</tspan></text>
+    <a
+       id="a13"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20323">
+      <text
+         id="text164"
+         xml:space="preserve"
+         transform="translate(324.98373,716.16824)"
+         clip-path="url(#clipPath165)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan164">CSC 323: </tspan></text>
+      <text
+         id="text165"
+         xml:space="preserve"
+         transform="translate(313.39399,734.16824)"
+         clip-path="url(#clipPath166)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.1546669 13.038667 20.372 27.705334 32.589333 39.086666 50.482666 61.87867 65.941338 73.274666 80.608002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan165">Programming </tspan></text>
+      <text
+         id="text166"
+         xml:space="preserve"
+         transform="translate(321.95301,752.16824)"
+         clip-path="url(#clipPath167)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.9466667 15.444 22.777334 30.110668 37.444 43.941334 51.27467 57.772003"
+           y="0"
+           sodipodi:role="line"
+           id="tspan166">Languages</tspan></text>
+    </a>
     <path
        id="path168"
        d="m 17783.502,240934.58 v 0 c 0,-1981.64 1606.434,-3588.08 3588.07,-3588.08 H 55895.43 c 951.617,0 1864.254,378.03 2537.15,1050.92 672.893,672.89 1050.92,1585.53 1050.92,2537.16 v 14351.84 c 0,1981.64 -1606.434,3588.08 -3588.07,3588.08 H 21371.572 c -1981.636,0 -3588.07,-1606.44 -3588.07,-3588.08 z"
        style="fill:url(#linearGradient169);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath169)" />
-    <text
-       id="text169"
-       xml:space="preserve"
-       transform="translate(72.688902,638.28866)"
-       clip-path="url(#clipPath170)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan169">CSC 324: </tspan></text>
-    <text
-       id="text170"
-       xml:space="preserve"
-       transform="translate(88.154243,656.28866)"
-       clip-path="url(#clipPath171)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 12.657333 19.154667 26.488001"
-         y="0"
-         sodipodi:role="line"
-         id="tspan170">Web </tspan></text>
-    <text
-       id="text171"
-       xml:space="preserve"
-       transform="translate(66.799207,674.28867)"
-       clip-path="url(#clipPath172)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 8.1546669 13.038667 20.372 27.705334 32.589333 39.086666 50.482666 54.545334 61.87867"
-         y="0"
-         sodipodi:role="line"
-         id="tspan171">Programing</tspan></text>
+    <a
+       id="a8"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20324">
+      <text
+         id="text169"
+         xml:space="preserve"
+         transform="translate(72.688902,638.28866)"
+         clip-path="url(#clipPath170)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan169">CSC 324: </tspan></text>
+      <text
+         id="text170"
+         xml:space="preserve"
+         transform="translate(88.154243,656.28866)"
+         clip-path="url(#clipPath171)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 12.657333 19.154667 26.488001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan170">Web </tspan></text>
+      <text
+         id="text171"
+         xml:space="preserve"
+         transform="translate(66.799207,674.28867)"
+         clip-path="url(#clipPath172)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.1546669 13.038667 20.372 27.705334 32.589333 39.086666 50.482666 54.545334 61.87867"
+           y="0"
+           sodipodi:role="line"
+           id="tspan171">Programing</tspan></text>
+    </a>
     <path
        id="path173"
        d="m 210032.16,240934.58 v 0 c 0,-1981.64 1606.44,-3588.08 3588.06,-3588.08 h 34523.86 c 951.62,0 1864.26,378.03 2537.15,1050.92 672.89,672.89 1050.93,1585.53 1050.93,2537.16 v 14351.84 c 0,1981.64 -1606.44,3588.08 -3588.08,3588.08 h -34523.86 c -1981.62,0 -3588.06,-1606.44 -3588.06,-3588.08 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath174)" />
-    <text
-       id="text174"
-       xml:space="preserve"
-       transform="translate(585.11451,635.44866)"
-       clip-path="url(#clipPath175)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 7.1040001 13.034667 20.138668 22.805334 28.138668 33.472 38.805336 41.760002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan174">CSC 326: </tspan></text>
-    <text
-       id="text175"
-       xml:space="preserve"
-       transform="translate(576.69825,648.44866)"
-       clip-path="url(#clipPath176)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.482667 14.208 17.162666 22.496 27.221334 35.509335 40.234669 43.189335 46.144001 50.869335 55.594669 58.549335"
-         y="0"
-         sodipodi:role="line"
-         id="tspan175">Mathematical </tspan></text>
-    <text
-       id="text176"
-       xml:space="preserve"
-       transform="translate(573.58411,661.44866)"
-       clip-path="url(#clipPath177)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 6.5066667 11.84 17.173334 21.898668 25.450668 28.405334 36.693333 41.418667 46.752003 49.706669 53.856003 56.522667 59.477337 64.810669"
-         y="0"
-         sodipodi:role="line"
-         id="tspan176">Experiments in </tspan></text>
-    <text
-       id="text177"
-       xml:space="preserve"
-       transform="translate(566.78086,674.44866)"
-       clip-path="url(#clipPath178)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 7.1040001 12.437334 20.725334 26.058668 31.392 34.346668 39.072002 42.624001 45.290668 51.221336 55.946667 58.901337 63.626667 68.959999 73.685333"
-         y="0"
-         sodipodi:role="line"
-         id="tspan177">Computer Science</tspan></text>
+    <a
+       id="a12"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20326">
+      <text
+         id="text174"
+         xml:space="preserve"
+         transform="translate(585.11451,635.44866)"
+         clip-path="url(#clipPath175)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:10.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 7.1040001 13.034667 20.138668 22.805334 28.138668 33.472 38.805336 41.760002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan174">CSC 326: </tspan></text>
+      <text
+         id="text175"
+         xml:space="preserve"
+         transform="translate(576.69825,648.44866)"
+         clip-path="url(#clipPath176)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:10.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.482667 14.208 17.162666 22.496 27.221334 35.509335 40.234669 43.189335 46.144001 50.869335 55.594669 58.549335"
+           y="0"
+           sodipodi:role="line"
+           id="tspan175">Mathematical </tspan></text>
+      <text
+         id="text176"
+         xml:space="preserve"
+         transform="translate(573.58411,661.44866)"
+         clip-path="url(#clipPath177)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:10.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 6.5066667 11.84 17.173334 21.898668 25.450668 28.405334 36.693333 41.418667 46.752003 49.706669 53.856003 56.522667 59.477337 64.810669"
+           y="0"
+           sodipodi:role="line"
+           id="tspan176">Experiments in </tspan></text>
+      <text
+         id="text177"
+         xml:space="preserve"
+         transform="translate(566.78086,674.44866)"
+         clip-path="url(#clipPath178)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:10.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 7.1040001 12.437334 20.725334 26.058668 31.392 34.346668 39.072002 42.624001 45.290668 51.221336 55.946667 58.901337 63.626667 68.959999 73.685333"
+           y="0"
+           sodipodi:role="line"
+           id="tspan177">Computer Science</tspan></text>
+    </a>
     <path
        id="path179"
        d="m 210032.16,270606.7 v 0 c 0,-1981.64 1606.44,-3588.08 3588.06,-3588.08 h 34523.86 c 951.62,0 1864.26,378.04 2537.15,1050.91 672.89,672.91 1050.93,1585.53 1050.93,2537.17 v 14351.83 c 0,1981.67 -1606.44,3588.09 -3588.08,3588.09 h -34523.86 c -1981.62,0 -3588.06,-1606.42 -3588.06,-3588.09 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath180)" />
-    <text
-       id="text180"
-       xml:space="preserve"
-       transform="translate(564.25729,719.82824)"
-       clip-path="url(#clipPath181)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 7.1040001 13.034667 20.138668 22.805334 28.138668 33.472 38.805336 41.760002 44.426666 52.128002 56.853336 59.808002 64.533333 69.866669 74.592003 78.741333 83.466667"
-         y="0"
-         sodipodi:role="line"
-         id="tspan180">CSC 325: Database </tspan></text>
-    <text
-       id="text181"
-       xml:space="preserve"
-       transform="translate(578.17598,732.82824)"
-       clip-path="url(#clipPath182)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.482667 14.208 19.541334 24.266668 29.6 34.325333 42.613335 47.338669 52.672001 55.626667"
-         y="0"
-         sodipodi:role="line"
-         id="tspan181">Management </tspan></text>
-    <text
-       id="text182"
-       xml:space="preserve"
-       transform="translate(588.22605,745.82824)"
-       clip-path="url(#clipPath183)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 5.9306669 11.264 15.413334 18.368 23.093334 31.381334"
-         y="0"
-         sodipodi:role="line"
-         id="tspan182">Systems</tspan></text>
+    <a
+       id="a15"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20325">
+      <text
+         id="text180"
+         xml:space="preserve"
+         transform="translate(564.25729,719.82824)"
+         clip-path="url(#clipPath181)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:10.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 7.1040001 13.034667 20.138668 22.805334 28.138668 33.472 38.805336 41.760002 44.426666 52.128002 56.853336 59.808002 64.533333 69.866669 74.592003 78.741333 83.466667"
+           y="0"
+           sodipodi:role="line"
+           id="tspan180">CSC 325: Database </tspan></text>
+      <text
+         id="text181"
+         xml:space="preserve"
+         transform="translate(578.17598,732.82824)"
+         clip-path="url(#clipPath182)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:10.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.482667 14.208 19.541334 24.266668 29.6 34.325333 42.613335 47.338669 52.672001 55.626667"
+           y="0"
+           sodipodi:role="line"
+           id="tspan181">Management </tspan></text>
+      <text
+         id="text182"
+         xml:space="preserve"
+         transform="translate(588.22605,745.82824)"
+         clip-path="url(#clipPath183)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:10.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 5.9306669 11.264 15.413334 18.368 23.093334 31.381334"
+           y="0"
+           sodipodi:role="line"
+           id="tspan182">Systems</tspan></text>
+    </a>
     <path
        id="path184"
        d="m 38633.5,300278.8 v 0 c 0,-1981.64 1606.434,-3588.08 3588.074,-3588.08 H 76745.43 c 951.62,0 1864.26,378.03 2537.15,1050.94 672.9,672.9 1050.92,1585.54 1050.92,2537.14 v 14351.86 c 0,1981.64 -1606.43,3588.06 -3588.07,3588.06 H 42221.574 c -1981.64,0 -3588.074,-1606.42 -3588.074,-3588.06 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath185)" />
-    <text
-       id="text185"
-       xml:space="preserve"
-       transform="translate(127.41331,794.0478)"
-       clip-path="url(#clipPath186)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan185">CSC 382: </tspan></text>
-    <text
-       id="text186"
-       xml:space="preserve"
-       transform="translate(129.26681,812.0478)"
-       clip-path="url(#clipPath187)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 15.473333 19.536001 23.598667 28.482668 32.545334 39.042667 43.105335 49.602669 53.665333"
-         y="0"
-         sodipodi:role="line"
-         id="tspan186">Artificial </tspan></text>
-    <text
-       id="text187"
-       xml:space="preserve"
-       transform="translate(121.53793,830.0478)"
-       clip-path="url(#clipPath188)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 4.8840003 12.217334 16.280001 22.777334 26.84 30.902668 34.965336 42.298668 48.796001 56.129333 62.626667"
-         y="0"
-         sodipodi:role="line"
-         id="tspan187">Intelligence</tspan></text>
+    <a
+       id="a16"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20382">
+      <text
+         id="text185"
+         xml:space="preserve"
+         transform="translate(127.41331,794.0478)"
+         clip-path="url(#clipPath186)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan185">CSC 382: </tspan></text>
+      <text
+         id="text186"
+         xml:space="preserve"
+         transform="translate(129.26681,812.0478)"
+         clip-path="url(#clipPath187)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 15.473333 19.536001 23.598667 28.482668 32.545334 39.042667 43.105335 49.602669 53.665333"
+           y="0"
+           sodipodi:role="line"
+           id="tspan186">Artificial </tspan></text>
+      <text
+         id="text187"
+         xml:space="preserve"
+         transform="translate(121.53793,830.0478)"
+         clip-path="url(#clipPath188)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 4.8840003 12.217334 16.280001 22.777334 26.84 30.902668 34.965336 42.298668 48.796001 56.129333 62.626667"
+           y="0"
+           sodipodi:role="line"
+           id="tspan187">Intelligence</tspan></text>
+    </a>
     <path
        id="path189"
        d="m 86695.664,300278.8 v 0 c 0,-1981.64 1606.436,-3588.08 3588.07,-3588.08 h 34523.856 c 951.62,0 1864.26,378.03 2537.15,1050.94 672.89,672.9 1050.92,1585.54 1050.92,2537.14 v 14351.86 c 0,1981.64 -1606.43,3588.06 -3588.07,3588.06 H 90283.734 c -1981.634,0 -3588.07,-1606.42 -3588.07,-3588.06 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath190)" />
-    <text
-       id="text190"
-       xml:space="preserve"
-       transform="translate(253.56073,794.0478)"
-       clip-path="url(#clipPath191)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan190">CSC 390: </tspan></text>
-    <text
-       id="text191"
-       xml:space="preserve"
-       transform="translate(252.96317,812.0478)"
-       clip-path="url(#clipPath192)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 58.608002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan191">Computer </tspan></text>
-    <text
-       id="text192"
-       xml:space="preserve"
-       transform="translate(253.779,830.0478)"
-       clip-path="url(#clipPath193)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 17.086666 21.149334 31.738667 39.072002 43.956001 51.289333"
-         y="0"
-         sodipodi:role="line"
-         id="tspan192">Networks</tspan></text>
+    <a
+       id="a17"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20390">
+      <text
+         id="text190"
+         xml:space="preserve"
+         transform="translate(253.56073,794.0478)"
+         clip-path="url(#clipPath191)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan190">CSC 390: </tspan></text>
+      <text
+         id="text191"
+         xml:space="preserve"
+         transform="translate(252.96317,812.0478)"
+         clip-path="url(#clipPath192)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 58.608002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan191">Computer </tspan></text>
+      <text
+         id="text192"
+         xml:space="preserve"
+         transform="translate(253.779,830.0478)"
+         clip-path="url(#clipPath193)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 17.086666 21.149334 31.738667 39.072002 43.956001 51.289333"
+           y="0"
+           sodipodi:role="line"
+           id="tspan192">Networks</tspan></text>
+    </a>
     <path
        id="path194"
        d="m 134757.83,300278.8 v 0 c 0,-1981.64 1606.44,-3588.08 3588.07,-3588.08 h 34523.85 c 951.63,0 1864.27,378.03 2537.15,1050.94 672.9,672.9 1050.93,1585.54 1050.93,2537.14 v 14351.86 c 0,1981.64 -1606.44,3588.06 -3588.08,3588.06 H 138345.9 c -1981.63,0 -3588.07,-1606.42 -3588.07,-3588.06 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath195)" />
-    <text
-       id="text195"
-       xml:space="preserve"
-       transform="translate(379.70813,794.0478)"
-       clip-path="url(#clipPath196)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
-         y="0"
-         sodipodi:role="line"
-         id="tspan195">CSC 393: </tspan></text>
-    <text
-       id="text196"
-       xml:space="preserve"
-       transform="translate(377.49323,812.0478)"
-       clip-path="url(#clipPath197)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 17.922667 29.318666 35.816002 40.700001 44.762669 51.260002 57.757336 61.82"
-         y="0"
-         sodipodi:role="line"
-         id="tspan196">Numerical </tspan></text>
-    <text
-       id="text197"
-       xml:space="preserve"
-       transform="translate(382.77106,830.0478)"
-       clip-path="url(#clipPath198)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 10.589334 17.922667 24.42 28.482668 35.816002 41.521336 45.584"
-         y="0"
-         sodipodi:role="line"
-         id="tspan197">Analysis</tspan></text>
+    <a
+       id="a18"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20393">
+      <text
+         id="text195"
+         xml:space="preserve"
+         transform="translate(379.70813,794.0478)"
+         clip-path="url(#clipPath196)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+           y="0"
+           sodipodi:role="line"
+           id="tspan195">CSC 393: </tspan></text>
+      <text
+         id="text196"
+         xml:space="preserve"
+         transform="translate(377.49323,812.0478)"
+         clip-path="url(#clipPath197)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 17.922667 29.318666 35.816002 40.700001 44.762669 51.260002 57.757336 61.82"
+           y="0"
+           sodipodi:role="line"
+           id="tspan196">Numerical </tspan></text>
+      <text
+         id="text197"
+         xml:space="preserve"
+         transform="translate(382.77106,830.0478)"
+         clip-path="url(#clipPath198)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 10.589334 17.922667 24.42 28.482668 35.816002 41.521336 45.584"
+           y="0"
+           sodipodi:role="line"
+           id="tspan197">Analysis</tspan></text>
+    </a>
     <path
        id="path199"
        d="m 182819.98,300278.8 v 0 c 0,-1981.64 1606.44,-3588.08 3588.08,-3588.08 h 34523.86 c 951.61,0 1864.25,378.03 2537.14,1050.94 672.91,672.9 1050.92,1585.54 1050.92,2537.14 v 14351.86 c 0,1981.64 -1606.42,3588.06 -3588.06,3588.06 h -34523.86 c -1981.64,0 -3588.08,-1606.42 -3588.08,-3588.06 z"
        style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(0.00262467)"
        clip-path="url(#clipPath200)" />
-    <text
-       id="text200"
-       xml:space="preserve"
-       transform="translate(493.75638,797.4878)"
-       clip-path="url(#clipPath201)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 7.9920001 14.664 22.656 25.656 31.656 37.655998 43.655998 46.98 49.764 56.256001 62.256001 68.255997 71.580002 76.896004 81.564003"
-         y="0"
-         sodipodi:role="line"
-         id="tspan200">CSC 399: Topics </tspan></text>
-    <text
-       id="text201"
-       xml:space="preserve"
-       transform="translate(504.40287,811.4878)"
-       clip-path="url(#clipPath202)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 3.3239999 9.3240004 12.324 20.316 26.316 35.639999 41.639999 47.639999 50.964001 56.279999 60.276001"
-         y="0"
-         sodipodi:role="line"
-         id="tspan201">in Computer </tspan></text>
-    <text
-       id="text202"
-       xml:space="preserve"
-       transform="translate(515.91068,825.4878)"
-       clip-path="url(#clipPath203)"
-       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
-         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-         x="0 6.6719999 11.988 15.312 20.628 26.628 31.944"
-         y="0"
-         sodipodi:role="line"
-         id="tspan202">Science</tspan></text>
+    <a
+       id="a19"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20399">
+      <text
+         id="text200"
+         xml:space="preserve"
+         transform="translate(493.75638,797.4878)"
+         clip-path="url(#clipPath201)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 7.9920001 14.664 22.656 25.656 31.656 37.655998 43.655998 46.98 49.764 56.256001 62.256001 68.255997 71.580002 76.896004 81.564003"
+           y="0"
+           sodipodi:role="line"
+           id="tspan200">CSC 399: Topics </tspan></text>
+      <text
+         id="text201"
+         xml:space="preserve"
+         transform="translate(504.40287,811.4878)"
+         clip-path="url(#clipPath202)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 3.3239999 9.3240004 12.324 20.316 26.316 35.639999 41.639999 47.639999 50.964001 56.279999 60.276001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan201">in Computer </tspan></text>
+      <text
+         id="text202"
+         xml:space="preserve"
+         transform="translate(515.91068,825.4878)"
+         clip-path="url(#clipPath203)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 6.6719999 11.988 15.312 20.628 26.628 31.944"
+           y="0"
+           sodipodi:role="line"
+           id="tspan202">Science</tspan></text>
+    </a>
     <path
        id="path204"
        d="m 140772,159846 v 25387.69 h 42048 V 237342"
