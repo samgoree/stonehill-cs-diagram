@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="900"
+   height="880"
+   viewBox="0 0 900 880"
+   sodipodi:docname="major diagram.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.424985,-317.47229)"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-283.40226,-63.100454)"
+         id="path10" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path12" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-617.29204,-84.283413)"
+         id="path13" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-650.08612,-102.28341)"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-617.29204,-212.06557)"
+         id="path17" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-647.6458,-230.06557)"
+         id="path18" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path20" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath22">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path22" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath24">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path24" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-409.33197,-93.282099)"
+         id="path27" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path29" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-406.89165,-221.06426)"
+         id="path30" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path32" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path34" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath36">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path36" />
+    </clipPath>
+    <linearGradient
+       x1="67.083939"
+       y1="32.876087"
+       x2="67.083908"
+       y2="40.622082"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3934.9656)"
+       spreadMethod="pad"
+       id="linearGradient38">
+      <stop
+         style="stop-opacity:1;stop-color:#cfe2f3"
+         offset="0"
+         id="stop37" />
+      <stop
+         style="stop-opacity:1;stop-color:#fff2cc"
+         offset="1"
+         id="stop38" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath38">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path38" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath39">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-729.74589,-375.62463)"
+         id="path39" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath40">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-744.13716,-393.62463)"
+         id="path40" />
+    </clipPath>
+    <linearGradient
+       x1="27.93112"
+       y1="32.875961"
+       x2="27.931093"
+       y2="40.621956"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3934.9656)"
+       spreadMethod="pad"
+       id="linearGradient42">
+      <stop
+         style="stop-opacity:1;stop-color:#d9d2e9"
+         offset="0"
+         id="stop41" />
+      <stop
+         style="stop-opacity:1;stop-color:#fff2cc"
+         offset="1"
+         id="stop42" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path42" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath43">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-314.52296,-375.62331)"
+         id="path43" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-349.73947,-393.62331)"
+         id="path44" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath46">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path46" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath47">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-105.12085,-375.62331)"
+         id="path47" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-131.39905,-393.62331)"
+         id="path48" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath50">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path50" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath51">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-519.44161,-375.62331)"
+         id="path51" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-552.21779,-393.62331)"
+         id="path52" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path54" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath56">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path56" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath58">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path58" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath60">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path60" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath61">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-714.00525,-535.67056)"
+         id="path61" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath62">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-749.41856,-553.67056)"
+         id="path62" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path64" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath65">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.561823,-56.404623)"
+         id="path65" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath67">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path67" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath69">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path69" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath70">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.561823,-94.404624)"
+         id="path70" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath72">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path72" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath74">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path74" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath76">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path76" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath77">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.561823,-113.40462)"
+         id="path77" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath79">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path79" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath81">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path81" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath83">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path83" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath85">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path85" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath86">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.561823,-151.40463)"
+         id="path86" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath88">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path88" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath90">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path90" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath92">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path92" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath94">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path94" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath95">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.561823,-189.40462)"
+         id="path95" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath97">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path97" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath98">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-33.460261,-189.40462)"
+         id="path98" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath100">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path100" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath102">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path102" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath104">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path104" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath105">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.561823,-208.40462)"
+         id="path105" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath107">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path107" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath109">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path109" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath111">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path111" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath113">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path113" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath114">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-24.561823,-246.40462)"
+         id="path114" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath116">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-15.561822,-33.085446)"
+         id="path116" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath118">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path118" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath119">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-68.176317,-536.62724)"
+         id="path119" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath120">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-89.416339,-554.62724)"
+         id="path120" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath122">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path122" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath123">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-293.84324,-527.62332)"
+         id="path123" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath124">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-324.18984,-545.62332)"
+         id="path124" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath125">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-315.57366,-563.62332)"
+         id="path125" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath127">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path127" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath128">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-710.5993,-656.64824)"
+         id="path128" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath129">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-726.83305,-674.64824)"
+         id="path129" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath131">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path131" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath132">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-713.9981,-777.62334)"
+         id="path132" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath133">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-709.75079,-795.62335)"
+         id="path133" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath135">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path135" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath136">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-198.83632,-716.16824)"
+         id="path136" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath137">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-206.37913,-734.16824)"
+         id="path137" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath138">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-194.56754,-752.16824)"
+         id="path138" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath140">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path140" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath141">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-72.688902,-725.16824)"
+         id="path141" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath142">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-60.294065,-743.16824)"
+         id="path142" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath144">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path144" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath145">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-324.98373,-638.28866)"
+         id="path145" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath146">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-324.38617,-656.28866)"
+         id="path146" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath147">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-317.07594,-674.28867)"
+         id="path147" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath149">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path149" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath150">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-451.13113,-638.28866)"
+         id="path150" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath151">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-452.16165,-656.28866)"
+         id="path151" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath152">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-459.08186,-674.28867)"
+         id="path152" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath154">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path154" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath155">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-451.13113,-716.16824)"
+         id="path155" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath156">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-466.00923,-734.16824)"
+         id="path156" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath157">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-441.20914,-752.16824)"
+         id="path157" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath159">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path159" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath160">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-198.83632,-638.28866)"
+         id="path160" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath161">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-201.90998,-656.28866)"
+         id="path161" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath162">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-201.09773,-674.28867)"
+         id="path162" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath164">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path164" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath165">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-324.98373,-716.16824)"
+         id="path165" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath166">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-313.39399,-734.16824)"
+         id="path166" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath167">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-321.95301,-752.16824)"
+         id="path167" />
+    </clipPath>
+    <linearGradient
+       x1="5.3775191"
+       y1="71.770714"
+       x2="5.3774953"
+       y2="78.280571"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3307.0081)"
+       spreadMethod="pad"
+       id="linearGradient169">
+      <stop
+         style="stop-opacity:1;stop-color:#d9ead3"
+         offset="0"
+         id="stop168" />
+      <stop
+         style="stop-opacity:1;stop-color:#fff2cc"
+         offset="1"
+         id="stop169" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath169">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path169" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath170">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-72.688902,-638.28866)"
+         id="path170" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath171">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-88.154243,-656.28866)"
+         id="path171" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath172">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-66.799207,-674.28867)"
+         id="path172" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath174">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path174" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath175">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-585.11451,-635.44866)"
+         id="path175" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath176">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-576.69825,-648.44866)"
+         id="path176" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath177">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-573.58411,-661.44866)"
+         id="path177" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath178">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-566.78086,-674.44866)"
+         id="path178" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath180">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path180" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath181">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-564.25729,-719.82824)"
+         id="path181" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath182">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-578.17598,-732.82824)"
+         id="path182" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath183">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-588.22605,-745.82824)"
+         id="path183" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath185">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path185" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath186">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-127.41331,-794.0478)"
+         id="path186" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath187">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-129.26681,-812.0478)"
+         id="path187" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath188">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-121.53793,-830.0478)"
+         id="path188" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath190">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path190" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath191">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-253.56073,-794.0478)"
+         id="path191" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath192">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-252.96317,-812.0478)"
+         id="path192" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath193">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-253.779,-830.0478)"
+         id="path193" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath195">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path195" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath196">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-379.70813,-794.0478)"
+         id="path196" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath197">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-377.49323,-812.0478)"
+         id="path197" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath198">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-382.77106,-830.0478)"
+         id="path198" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath200">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path200" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath201">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-493.75638,-797.4878)"
+         id="path201" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath202">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-504.40287,-811.4878)"
+         id="path202" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath203">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         transform="matrix(0.00262467,0,0,0.00262467,-515.91068,-825.4878)"
+         id="path203" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath205">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path205" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath207">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path207" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath209">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path209" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath211">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path211" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath213">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path213" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath215">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path215" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath217">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path217" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath219">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path219" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath221">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path221" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath223">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path223" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath225">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path225" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath227">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path227" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath229">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path229" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath231">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path231" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath233">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path233" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath235">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path235" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath237">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path237" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath239">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path239" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath241">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path241" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath243">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path243" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath245">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path245" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath247">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path247" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath249">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path249" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath251">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path251" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath253">
+      <path
+         d="M 0,0 H 343157 V 335495 H 0 Z"
+         id="path253" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2560745"
+     inkscape:cx="209.38248"
+     inkscape:cy="389.70618"
+     inkscape:window-width="1472"
+     inkscape:window-height="806"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="900"
+       height="880"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 0,0 H 343157 V 335495 H 0 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 2600,204658.98 v 0 c 0,-13427.4 10885.071,-24312.48 24312.486,-24312.48 H 316243.5 c 6448.1,0 12632.06,2561.48 17191.53,7120.97 4559.47,4559.47 7120.97,10743.43 7120.97,17191.51 V 301906 c 0,13427.44 -10885.06,24312.5 -24312.5,24312.5 H 26912.486 C 13485.071,326218.5 2600,315333.44 2600,301906 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="m 2600,118611.73 v 0 c 0,-6179.09 5009.138,-11188.23 11188.224,-11188.23 H 329367.78 c 2967.28,0 5813.06,1178.76 7911.25,3276.95 2098.22,2098.21 3276.97,4943.97 3276.97,7911.28 v 44751.55 c 0,6179.08 -5009.12,11188.22 -11188.22,11188.22 H 13788.224 v 0 C 7609.138,174551.5 2600,169542.36 2600,163363.28 Z"
+       style="fill:#f3f3f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath6)" />
+    <text
+       id="text6"
+       xml:space="preserve"
+       transform="translate(24.424985,317.47229)"
+       clip-path="url(#clipPath7)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.378666 18.647999 26.917332 36.250664 45.584 54.917332 58.89333 70.503998 78.773331 87.042664"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">Second Year</tspan></text>
+    <path
+       id="path8"
+       d="m 100039,24668.809 v 0 C 100039,16167.871 106930.37,9276.5 115431.31,9276.5 H 300106.7 c 4082.3,0 7997.4,1621.685 10884,4508.303 2886.6,2886.617 4508.3,6801.711 4508.3,10884.006 v 61567.386 c 0,8500.935 -6891.38,15392.305 -15392.3,15392.305 H 115431.31 c -8500.94,0 -15392.31,-6891.37 -15392.31,-15392.305 z"
+       style="fill:#f3f3f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath9)" />
+    <text
+       id="text9"
+       xml:space="preserve"
+       transform="translate(283.40226,63.100454)"
+       clip-path="url(#clipPath10)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.378666 15.549333 21.765333 29.026665 34.19733 38.173332 49.783997 58.053329 66.322662"
+         y="0"
+         sodipodi:role="line"
+         id="tspan9">First Year</tspan></text>
+    <path
+       id="path11"
+       d="m 227128,23445.602 v 0 c 0,-2805.662 2274.44,-5080.102 5080.11,-5080.102 h 51567.79 c 1347.32,0 2639.48,535.223 3592.16,1487.928 952.72,952.702 1487.94,2244.847 1487.94,3592.174 V 43765.4 c 0,2805.662 -2274.44,5080.1 -5080.1,5080.1 h -51567.79 c -2805.67,0 -5080.11,-2274.438 -5080.11,-5080.1 z"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath12)" />
+    <a
+       id="a255"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20103">
+      <text
+         id="text12"
+         xml:space="preserve"
+         transform="translate(617.29204,84.283413)"
+         clip-path="url(#clipPath13)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 78.188004 89.584 96.917336 104.25067 108.31334 114.81067 119.69467"
+           y="0"
+           sodipodi:role="line"
+           id="tspan12">CSC 103: Computer </tspan></text>
+    </a>
+    <a
+       id="a256"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20103">
+      <text
+         id="text13"
+         xml:space="preserve"
+         transform="translate(650.08612,102.28341)"
+         clip-path="url(#clipPath14)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.1546669 14.652 18.714666 25.212 32.545334 39.042667 45.540001 49.206669"
+           y="0"
+           sodipodi:role="line"
+           id="tspan13">Science I</tspan></text>
+    </a>
+    <path
+       id="path15"
+       d="m 227128,72130.6 v 0 c 0,-2805.66 2274.44,-5080.1 5080.11,-5080.1 h 51567.79 c 1347.32,0 2639.48,535.23 3592.16,1487.93 952.72,952.7 1487.94,2244.84 1487.94,3592.17 v 20319.8 c 0,2805.66 -2274.44,5080.1 -5080.1,5080.1 h -51567.79 c -2805.67,0 -5080.11,-2274.44 -5080.11,-5080.1 z"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath16)" />
+    <a
+       id="a257"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20104">
+      <text
+         id="text16"
+         xml:space="preserve"
+         transform="translate(617.29204,212.06557)"
+         clip-path="url(#clipPath17)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 78.188004 89.584 96.917336 104.25067 108.31334 114.81067 119.69467"
+           y="0"
+           sodipodi:role="line"
+           id="tspan16">CSC 104: Computer </tspan></text>
+    </a>
+    <a
+       id="a258"
+       xlink:href="https://web.stonehill.edu/compsci/ComputerScienceCourses.htm#CS%20104">
+      <text
+         id="text17"
+         xml:space="preserve"
+         transform="translate(647.6458,230.06557)"
+         clip-path="url(#clipPath18)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 8.1546669 14.652 18.714666 25.212 32.545334 39.042667 45.540001 49.206669 54.090668"
+           y="0"
+           sodipodi:role="line"
+           id="tspan17">Science II</tspan></text>
+    </a>
+    <path
+       id="path19"
+       d="m 257992,48845.5 v 18204"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath20)" />
+    <path
+       id="path21"
+       d="m 257992,48845.5 v 15918"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath22)" />
+    <path
+       id="path23"
+       d="m 257362.69,64763.5 629.31,1729.016 629.31,-1729.016 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath24)" />
+    <path
+       id="path25"
+       d="m 149054,23445.102 v 0 c 0,-2805.662 2274.44,-5080.102 5080.11,-5080.102 h 51567.78 c 1347.33,0 2639.49,535.223 3592.19,1487.928 952.7,952.702 1487.92,2244.847 1487.92,3592.174 V 43764.9 c 0,2805.662 -2274.44,5080.1 -5080.11,5080.1 h -51567.78 c -2805.67,0 -5080.11,-2274.438 -5080.11,-5080.1 z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath26)" />
+    <a
+       id="a253"
+       xlink:href="https://catalog.stonehill.edu/preview_course_nopop.php?catoid=6&amp;coid=9931">
+      <text
+         id="text26"
+         xml:space="preserve"
+         transform="translate(409.33197,93.282099)"
+         clip-path="url(#clipPath27)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 13.038667 21.985334 32.574669 36.241333 43.574669 50.908001 58.241333 62.304001 65.970665 75.73867 82.236 86.298668 92.796005 100.12933 104.192 111.52534 117.23067 120.89734"
+           y="0"
+           sodipodi:role="line"
+           id="tspan26">MTH 125: Calculus I</tspan></text>
+    </a>
+    <path
+       id="path28"
+       d="m 149054,72130.1 v 0 c 0,-2805.66 2274.44,-5080.1 5080.11,-5080.1 h 51567.78 c 1347.33,0 2639.49,535.23 3592.19,1487.93 952.7,952.7 1487.92,2244.84 1487.92,3592.17 v 20319.8 c 0,2805.66 -2274.44,5080.1 -5080.11,5080.1 h -51567.78 c -2805.67,0 -5080.11,-2274.44 -5080.11,-5080.1 z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath29)" />
+    <a
+       id="a254"
+       xlink:href="https://catalog.stonehill.edu/preview_course_nopop.php?catoid=18&amp;coid=32091">
+      <text
+         id="text29"
+         xml:space="preserve"
+         transform="translate(406.89165,221.06426)"
+         clip-path="url(#clipPath30)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 13.038667 21.985334 32.574669 36.241333 43.574669 50.908001 58.241333 62.304001 65.970665 75.73867 82.236 86.298668 92.796005 100.12933 104.192 111.52534 117.23067 120.89734 125.78133"
+           y="0"
+           sodipodi:role="line"
+           id="tspan29">MTH 126: Calculus II</tspan></text>
+    </a>
+    <path
+       id="path31"
+       d="M 179918,48845 V 67049"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath32)" />
+    <path
+       id="path33"
+       d="M 179918,48845 V 64763"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath34)" />
+    <path
+       id="path35"
+       d="M 179288.69,64763 179918,66492.016 180547.31,64763 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath36)" />
+    <path
+       id="path37"
+       d="m 263973,134446.61 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.8 c 1347.32,0 2639.48,535.23 3592.16,1487.93 952.72,952.69 1487.94,2244.85 1487.94,3592.18 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.1,5080.11 h -51567.8 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
+       style="fill:url(#linearGradient38);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath38)" />
+    <text
+       id="text38"
+       xml:space="preserve"
+       transform="translate(729.74589,375.62463)"
+       clip-path="url(#clipPath39)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 45.481335 52.814667 56.877335 60.544003 71.133331 77.630669 81.693336 88.190666"
+         y="0"
+         sodipodi:role="line"
+         id="tspan38">CSC 211: Data </tspan></text>
+    <text
+       id="text39"
+       xml:space="preserve"
+       transform="translate(744.13716,393.62463)"
+       clip-path="url(#clipPath40)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.1546669 12.217334 17.101334 24.434668 30.932001 34.994667 42.327999 47.212002 53.709335"
+         y="0"
+         sodipodi:role="line"
+         id="tspan39">Structures</tspan></text>
+    <path
+       id="path41"
+       d="m 109908,134446.11 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.79 c 1347.33,0 2639.49,535.23 3592.19,1487.93 952.7,952.69 1487.92,2244.85 1487.92,3592.18 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.11,5080.11 H 114988.1 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
+       style="fill:url(#linearGradient42);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath42)" />
+    <text
+       id="text42"
+       xml:space="preserve"
+       transform="translate(314.52296,375.62331)"
+       clip-path="url(#clipPath43)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 75.73867 81.444 87.941338 92.825333 99.32267 103.38534 109.88267"
+         y="0"
+         sodipodi:role="line"
+         id="tspan42">CSC 201: Discrete </tspan></text>
+    <text
+       id="text43"
+       xml:space="preserve"
+       transform="translate(349.73947,393.62331)"
+       clip-path="url(#clipPath44)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 13.038667 19.536001 23.598667 30.932001 34.598667"
+         y="0"
+         sodipodi:role="line"
+         id="tspan43">Math I</tspan></text>
+    <path
+       id="path45"
+       d="m 31834,134446.11 v 0 c 0,-2805.67 2274.438,-5080.11 5080.1,-5080.11 h 51567.8 c 1347.33,0 2639.47,535.23 3592.17,1487.93 952.7,952.69 1487.93,2244.85 1487.93,3592.18 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.1,5080.11 H 36914.1 c -2805.662,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath46)" />
+    <a
+       id="a259">
+      <text
+         id="text46"
+         xml:space="preserve"
+         transform="translate(105.12085,375.62331)"
+         clip-path="url(#clipPath47)"
+         style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+           style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="0 13.038667 21.985334 32.574669 36.241333 43.574669 50.908001 58.241333 62.304001 65.970665 74.125336 78.188004 84.685333 88.748001 92.810669 98.515999 102.57867 106.64133 113.13867 118.844"
+           y="0"
+           sodipodi:role="line"
+           id="tspan46">MTH 225: Statistics </tspan></text>
+    </a>
+    <text
+       id="text47"
+       xml:space="preserve"
+       transform="translate(131.39905,393.62331)"
+       clip-path="url(#clipPath48)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 4.8840003 12.217334 17.101334 20.768 28.922667 35.420002 39.482666 45.98 53.313335 59.810669"
+         y="0"
+         sodipodi:role="line"
+         id="tspan47">for Science</tspan></text>
+    <path
+       id="path49"
+       d="m 187982,134446.11 v 0 c 0,-2805.67 2274.44,-5080.11 5080.11,-5080.11 h 51567.78 c 1347.33,0 2639.49,535.23 3592.19,1487.93 952.7,952.69 1487.92,2244.85 1487.92,3592.18 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.11,5080.11 h -51567.78 c -2805.67,0 -5080.11,-2274.44 -5080.11,-5080.11 z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath50)" />
+    <text
+       id="text50"
+       xml:space="preserve"
+       transform="translate(519.44161,375.62331)"
+       clip-path="url(#clipPath51)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 75.73867 81.444 87.941338 92.825333 99.32267 103.38534 109.88267"
+         y="0"
+         sodipodi:role="line"
+         id="tspan50">CSC 202: Discrete </tspan></text>
+    <text
+       id="text51"
+       xml:space="preserve"
+       transform="translate(552.21779,393.62331)"
+       clip-path="url(#clipPath52)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 13.038667 19.536001 23.598667 30.932001 34.598667 39.482666"
+         y="0"
+         sodipodi:role="line"
+         id="tspan51">Math II</tspan></text>
+    <path
+       id="path53"
+       d="m 171636,144606 h 16344"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath54)" />
+    <path
+       id="path55"
+       d="m 171636,144606 h 14058"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath56)" />
+    <path
+       id="path57"
+       d="m 185694,145235.31 1729.02,-629.31 -1729.02,-629.31 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath58)" />
+    <path
+       id="path59"
+       d="m 263973,195424.11 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.8 c 1347.32,0 2639.48,535.22 3592.16,1487.92 952.72,952.7 1487.94,2244.86 1487.94,3592.19 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.1,5080.11 h -51567.8 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath60)" />
+    <text
+       id="text60"
+       xml:space="preserve"
+       transform="translate(714.00525,535.67056)"
+       clip-path="url(#clipPath61)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 71.676003 79.009338 85.506668 90.390671 96.888 100.95067 105.01334 112.34667 119.68"
+         y="0"
+         sodipodi:role="line"
+         id="tspan60">CSC 314: Operating </tspan></text>
+    <text
+       id="text61"
+       xml:space="preserve"
+       transform="translate(749.41856,553.67056)"
+       clip-path="url(#clipPath62)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.1546669 15.488 21.193335 25.256001 31.753334 43.149334"
+         y="0"
+         sodipodi:role="line"
+         id="tspan61">Systems</tspan></text>
+    <path
+       id="path63"
+       d="m 2600,20642.727 v 0 C 2600,14365.333 7688.8335,9276.5 13966.228,9276.5 h 45463.545 v 0 c 3014.512,0 5905.557,1197.51 8037.137,3329.091 2131.58,2131.581 3329.09,5022.626 3329.09,8037.136 V 90262.27 c 0,6277.394 -5088.836,11366.23 -11366.227,11366.23 H 13966.228 C 7688.8335,101628.5 2600,96539.664 2600,90262.27 Z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath64)" />
+    <text
+       id="text64"
+       xml:space="preserve"
+       transform="translate(24.561823,56.404623)"
+       clip-path="url(#clipPath65)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 11.552 18.639999 26.639999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan64">Key:</tspan></text>
+    <path
+       id="path66"
+       d="M 9,45.959175 H 141.39844 V 65.15917 H 9 Z"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath67)" />
+    <path
+       id="path68"
+       d="M 9,47.061363 H 141.39844 V 65.4598 H 9 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath69)" />
+    <text
+       id="text69"
+       xml:space="preserve"
+       transform="translate(24.561823,94.404624)"
+       clip-path="url(#clipPath70)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.656 17.743999 25.743999 33.743999 38.175999 43.504002 50.591999 58.591999 62.591999 67.919998 80.351997 87.440002 91.872002 99.872002 105.2 109.2 116.288 124.288"
+         y="0"
+         sodipodi:role="line"
+         id="tspan69">Required (major and</tspan></text>
+    <path
+       id="path71"
+       d="m 141.39844,47.061363 h 4 V 65.4598 h -4 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath72)" />
+    <path
+       id="path73"
+       d="M 9,64.959175 H 52.546875 V 84.15917 H 9 Z"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath74)" />
+    <path
+       id="path75"
+       d="M 9,66.06136 H 52.546875 V 84.4598 H 9 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath76)" />
+    <text
+       id="text76"
+       xml:space="preserve"
+       transform="translate(24.561823,113.40462)"
+       clip-path="url(#clipPath77)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 12.432 16.864 24.864 32.863998 38.192001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan76">minor)</tspan></text>
+    <path
+       id="path78"
+       d="m 52.546875,66.06136 v 0 18.39844 0 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath79)" />
+    <path
+       id="path80"
+       d="m 9,85.06136 v 0 18.39844 0 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath81)" />
+    <path
+       id="path82"
+       d="m 9,102.95918 h 110.625 v 19.19999 H 9 Z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath83)" />
+    <path
+       id="path84"
+       d="M 9,104.06136 H 119.625 V 122.4598 H 9 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath85)" />
+    <text
+       id="text85"
+       xml:space="preserve"
+       transform="translate(24.561823,151.40463)"
+       clip-path="url(#clipPath86)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.656 17.743999 25.743999 33.743999 38.175999 43.504002 50.591999 58.591999 62.591999 67.919998 80.351997 87.440002 91.872002 99.872002 105.2"
+         y="0"
+         sodipodi:role="line"
+         id="tspan85">Required (major)</tspan></text>
+    <path
+       id="path87"
+       d="m 119.625,104.06136 v 0 18.39844 0 z"
+       style="fill:#010000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath88)" />
+    <path
+       id="path89"
+       d="m 9,123.06136 v 0 18.39844 0 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath90)" />
+    <path
+       id="path91"
+       d="m 9,140.95917 h 120.85156 v 19.19999 H 9 Z"
+       style="fill:#fff2cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath92)" />
+    <path
+       id="path93"
+       d="m 9,142.06136 h 8.898438 V 160.4598 H 9 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath94)" />
+    <text
+       id="text94"
+       xml:space="preserve"
+       transform="translate(24.561823,189.40462)"
+       clip-path="url(#clipPath95)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0"
+         y="0"
+         id="tspan94">S</tspan></text>
+    <path
+       id="path96"
+       d="M 17.898438,142.06136 H 129.85156 V 160.4598 H 17.898438 Z"
+       style="fill:#010000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath97)" />
+    <text
+       id="text97"
+       xml:space="preserve"
+       transform="translate(33.460261,189.40462)"
+       clip-path="url(#clipPath98)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8 16 24 28.431999 36.431999 40.431999 44.863998 51.952 59.952 67.040001 71.040001 79.040001 86.127998 91.456001 99.456001 104.784"
+         y="0"
+         sodipodi:role="line"
+         id="tspan97">hould take before</tspan></text>
+    <path
+       id="path99"
+       d="m 129.85156,142.06136 h 4 v 18.39844 h -4 z"
+       style="fill:#010000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath100)" />
+    <path
+       id="path101"
+       d="m 9,159.95917 h 112.40625 v 19.19999 H 9 Z"
+       style="fill:#fff2cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath102)" />
+    <path
+       id="path103"
+       d="M 9,161.06136 H 121.40625 V 179.4598 H 9 Z"
+       style="fill:#010000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath104)" />
+    <text
+       id="text104"
+       xml:space="preserve"
+       transform="translate(24.561823,208.40462)"
+       clip-path="url(#clipPath105)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8 16 24 29.327999 33.759998 40.848 48.848 55.936001 60.368 64.367996 71.456001 79.456001 87.456001 92.783997 99.008003 106.096"
+         y="0"
+         sodipodi:role="line"
+         id="tspan104">300-level courses</tspan></text>
+    <path
+       id="path106"
+       d="m 121.40625,161.06136 v 0 18.39844 0 z"
+       style="fill:#010000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath107)" />
+    <path
+       id="path108"
+       d="m 9,180.06136 v 0 18.39844 0 z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath109)" />
+    <path
+       id="path110"
+       d="m 9,197.95917 h 58.640625 v 19.19999 H 9 Z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath111)" />
+    <path
+       id="path112"
+       d="M 9,199.06136 H 67.640625 V 217.4598 H 9 Z"
+       style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath113)" />
+    <text
+       id="text113"
+       xml:space="preserve"
+       transform="translate(24.561823,246.40462)"
+       clip-path="url(#clipPath114)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7600002 14.192 21.280001 28.368 32.799999 37.231998 45.231998 52.32"
+         y="0"
+         sodipodi:role="line"
+         id="tspan113">Electives</tspan></text>
+    <path
+       id="path115"
+       d="m 67.640625,199.06136 v 0 18.39844 0 z"
+       style="fill:#010000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+       transform="translate(15.561822,33.085446)"
+       clip-path="url(#clipPath116)" />
+    <path
+       id="path117"
+       d="m 17784,195788.61 v 0 c 0,-2805.67 2274.44,-5080.11 5080.102,-5080.11 H 74431.9 c 1347.33,0 2639.47,535.22 3592.17,1487.92 952.7,952.7 1487.93,2244.86 1487.93,3592.19 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.1,5080.11 H 22864.102 c -2805.662,0 -5080.102,-2274.44 -5080.102,-5080.11 z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath118)" />
+    <text
+       id="text118"
+       xml:space="preserve"
+       transform="translate(68.176317,536.62724)"
+       clip-path="url(#clipPath119)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 60.822666 69.769333 77.102669 83.599998 90.933334 95.817337 103.15067 106.81734 114.15067 119.03467"
+         y="0"
+         sodipodi:role="line"
+         id="tspan118">CSC 384: Theory of </tspan></text>
+    <text
+       id="text119"
+       xml:space="preserve"
+       transform="translate(89.416339,554.62724)"
+       clip-path="url(#clipPath120)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 57.786667 61.849335 69.182671"
+         y="0"
+         sodipodi:role="line"
+         id="tspan119">Computation</tspan></text>
+    <path
+       id="path121"
+       d="m 103894,195787.11 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.79 c 1347.33,0 2639.49,535.22 3592.19,1487.92 952.7,952.7 1487.92,2244.86 1487.92,3592.19 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.11,5080.11 H 108974.1 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath122)" />
+    <text
+       id="text122"
+       xml:space="preserve"
+       transform="translate(293.84324,527.62332)"
+       clip-path="url(#clipPath123)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 78.188004 89.584 96.917336 104.25067 108.31334 114.81067 119.69467"
+         y="0"
+         sodipodi:role="line"
+         id="tspan122">CSC 221: Computer </tspan></text>
+    <text
+       id="text123"
+       xml:space="preserve"
+       transform="translate(324.18984,545.62332)"
+       clip-path="url(#clipPath124)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.9466667 16.280001 23.613335 27.676001 34.173332 37.84 44.337334 51.67067 59.004002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan123">Logic and </tspan></text>
+    <text
+       id="text124"
+       xml:space="preserve"
+       transform="translate(315.57366,563.62332)"
+       clip-path="url(#clipPath125)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 15.209333 22.542667 29.040001 36.373333 40.436001 46.933334 53.430668 57.493336 61.556 68.889336"
+         y="0"
+         sodipodi:role="line"
+         id="tspan124">Organization</tspan></text>
+    <path
+       id="path126"
+       d="m 263973,241516.61 v 0 c 0,-2805.67 2274.44,-5080.11 5080.1,-5080.11 h 51567.8 c 1347.32,0 2639.48,535.22 3592.16,1487.92 952.72,952.7 1487.94,2244.86 1487.94,3592.19 v 20319.78 c 0,2805.67 -2274.44,5080.11 -5080.1,5080.11 h -51567.8 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.11 z"
+       style="fill:#cfe2f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath127)" />
+    <text
+       id="text127"
+       xml:space="preserve"
+       transform="translate(710.5993,656.64824)"
+       clip-path="url(#clipPath128)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 45.481335 52.814667 56.877335 59.737335 70.326668 74.389336 81.722672 89.056 93.940002 98.00267 102.06534 109.39867 120.79467 126.5"
+         y="0"
+         sodipodi:role="line"
+         id="tspan127">CSC 311: Algorithms </tspan></text>
+    <text
+       id="text128"
+       xml:space="preserve"
+       transform="translate(726.83305,674.64824)"
+       clip-path="url(#clipPath129)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 6.4973335 13.830667 21.164 24.830667 34.598667 41.931999 53.328003 60.661335 64.723999 71.221336 78.554672 82.617332 86.68"
+         y="0"
+         sodipodi:role="line"
+         id="tspan128">and Complexity</tspan></text>
+    <path
+       id="path130"
+       d="m 263973,287608.1 v 0 c 0,-2805.66 2274.44,-5080.1 5080.1,-5080.1 h 51567.8 c 1347.32,0 2639.48,535.22 3592.16,1487.94 952.72,952.68 1487.94,2244.84 1487.94,3592.16 v 20319.8 c 0,2805.66 -2274.44,5080.1 -5080.1,5080.1 h -51567.8 c -2805.66,0 -5080.1,-2274.44 -5080.1,-5080.1 z"
+       style="fill:#d9d2e9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath131)" />
+    <text
+       id="text131"
+       xml:space="preserve"
+       transform="translate(713.9981,777.62334)"
+       clip-path="url(#clipPath132)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002 61.08667 70.854668 77.352005 84.685333 90.390671 94.453339 101.78667 109.12 115.61733 119.68"
+         y="0"
+         sodipodi:role="line"
+         id="tspan131">CSC 400: Capstone: </tspan></text>
+    <text
+       id="text132"
+       xml:space="preserve"
+       transform="translate(709.75079,795.62335)"
+       clip-path="url(#clipPath133)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.1546669 15.488 20.372 24.434668 35.024002 41.521336 46.405334 52.902668 56.569336 65.515999 72.849335 80.182671 84.245338 91.578667 98.076004 104.57333 109.45734 113.52 120.85333"
+         y="0"
+         sodipodi:role="line"
+         id="tspan132">Software Engineering</tspan></text>
+    <path
+       id="path134"
+       d="m 65845.664,270606.7 v 0 c 0,-1981.64 1606.436,-3588.08 3588.07,-3588.08 h 34523.856 c 951.62,0 1864.26,378.04 2537.15,1050.91 672.89,672.91 1050.92,1585.53 1050.92,2537.17 v 14351.83 c 0,1981.67 -1606.43,3588.09 -3588.07,3588.09 H 69433.734 c -1981.634,0 -3588.07,-1606.42 -3588.07,-3588.09 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath135)" />
+    <text
+       id="text135"
+       xml:space="preserve"
+       transform="translate(198.83632,716.16824)"
+       clip-path="url(#clipPath136)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan135">CSC 305: </tspan></text>
+    <text
+       id="text136"
+       xml:space="preserve"
+       transform="translate(206.37913,734.16824)"
+       clip-path="url(#clipPath137)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 13.038667 20.372 27.705334 31.768002 35.830666 42.327999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan136">Mobile </tspan></text>
+    <text
+       id="text137"
+       xml:space="preserve"
+       transform="translate(194.56754,752.16824)"
+       clip-path="url(#clipPath138)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 51.289333 58.622669"
+         y="0"
+         sodipodi:role="line"
+         id="tspan137">Computing</tspan></text>
+    <path
+       id="path139"
+       d="m 17783.502,270606.7 v 0 c 0,-1981.64 1606.434,-3588.08 3588.07,-3588.08 H 55895.43 c 951.617,0 1864.254,378.04 2537.15,1050.91 672.893,672.91 1050.92,1585.53 1050.92,2537.17 v 14351.83 c 0,1981.67 -1606.434,3588.09 -3588.07,3588.09 H 21371.572 c -1981.636,0 -3588.07,-1606.42 -3588.07,-3588.09 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath140)" />
+    <text
+       id="text140"
+       xml:space="preserve"
+       transform="translate(72.688902,725.16824)"
+       clip-path="url(#clipPath141)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan140">CSC 310: </tspan></text>
+    <text
+       id="text141"
+       xml:space="preserve"
+       transform="translate(60.294065,743.16824)"
+       clip-path="url(#clipPath142)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.101334 24.434668 30.932001 35.816002 41.521336 48.018669 54.516003 61.849335 66.733337 70.796005 74.858665"
+         y="0"
+         sodipodi:role="line"
+         id="tspan141">Cybersecurity</tspan></text>
+    <path
+       id="path143"
+       d="m 113907.83,240934.58 v 0 c 0,-1981.64 1606.43,-3588.08 3588.07,-3588.08 h 34523.85 c 951.63,0 1864.27,378.03 2537.15,1050.92 672.9,672.89 1050.93,1585.53 1050.93,2537.16 v 14351.84 c 0,1981.64 -1606.44,3588.08 -3588.08,3588.08 H 117495.9 c -1981.64,0 -3588.07,-1606.44 -3588.07,-3588.08 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath144)" />
+    <text
+       id="text144"
+       xml:space="preserve"
+       transform="translate(324.98373,638.28866)"
+       clip-path="url(#clipPath145)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan144">CSC 304: </tspan></text>
+    <text
+       id="text145"
+       xml:space="preserve"
+       transform="translate(324.38617,656.28866)"
+       clip-path="url(#clipPath146)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 58.608002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan145">Computer </tspan></text>
+    <text
+       id="text146"
+       xml:space="preserve"
+       transform="translate(317.07594,674.28867)"
+       clip-path="url(#clipPath147)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 15.473333 21.970667 29.304001 33.366669 37.429333 43.926666 50.424 54.486668 61.82 66.704002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan146">Architecture</tspan></text>
+    <path
+       id="path148"
+       d="m 161969.98,240934.58 v 0 c 0,-1981.64 1606.44,-3588.08 3588.08,-3588.08 h 34523.86 c 951.61,0 1864.25,378.03 2537.14,1050.92 672.91,672.89 1050.92,1585.53 1050.92,2537.16 v 14351.84 c 0,1981.64 -1606.42,3588.08 -3588.06,3588.08 h -34523.86 c -1981.64,0 -3588.08,-1606.44 -3588.08,-3588.08 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath149)" />
+    <text
+       id="text149"
+       xml:space="preserve"
+       transform="translate(451.13113,638.28866)"
+       clip-path="url(#clipPath150)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan149">CSC 312: </tspan></text>
+    <text
+       id="text150"
+       xml:space="preserve"
+       transform="translate(452.16165,656.28866)"
+       clip-path="url(#clipPath151)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.101334 28.497334 35.830666 39.893333 43.956001 50.453335 55.337334"
+         y="0"
+         sodipodi:role="line"
+         id="tspan150">Compiler </tspan></text>
+    <text
+       id="text151"
+       xml:space="preserve"
+       transform="translate(459.08186,674.28867)"
+       clip-path="url(#clipPath152)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 17.086666 22.792 26.854668 34.188"
+         y="0"
+         sodipodi:role="line"
+         id="tspan151">Design</tspan></text>
+    <path
+       id="path153"
+       d="m 161969.98,270606.7 v 0 c 0,-1981.64 1606.44,-3588.08 3588.08,-3588.08 h 34523.86 c 951.61,0 1864.25,378.04 2537.14,1050.91 672.91,672.91 1050.92,1585.53 1050.92,2537.17 v 14351.83 c 0,1981.67 -1606.42,3588.09 -3588.06,3588.09 h -34523.86 c -1981.64,0 -3588.08,-1606.42 -3588.08,-3588.09 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath154)" />
+    <text
+       id="text154"
+       xml:space="preserve"
+       transform="translate(451.13113,716.16824)"
+       clip-path="url(#clipPath155)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan154">CSC 321: </tspan></text>
+    <text
+       id="text155"
+       xml:space="preserve"
+       transform="translate(466.00923,734.16824)"
+       clip-path="url(#clipPath156)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 17.086666 21.149334 27.646667"
+         y="0"
+         sodipodi:role="line"
+         id="tspan155">Data </tspan></text>
+    <text
+       id="text156"
+       xml:space="preserve"
+       transform="translate(441.20914,752.16824)"
+       clip-path="url(#clipPath157)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7093334 13.772 19.477333 26.810667 33.308002 37.370667 41.433334 47.930668 54.428001 58.490669 62.553333 69.886665"
+         y="0"
+         sodipodi:role="line"
+         id="tspan156">Visualization</tspan></text>
+    <path
+       id="path158"
+       d="m 65845.664,240934.58 v 0 c 0,-1981.64 1606.436,-3588.08 3588.07,-3588.08 h 34523.856 c 951.62,0 1864.26,378.03 2537.15,1050.92 672.89,672.89 1050.92,1585.53 1050.92,2537.16 v 14351.84 c 0,1981.64 -1606.43,3588.08 -3588.07,3588.08 H 69433.734 c -1981.634,0 -3588.07,-1606.44 -3588.07,-3588.08 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath159)" />
+    <text
+       id="text159"
+       xml:space="preserve"
+       transform="translate(198.83632,638.28866)"
+       clip-path="url(#clipPath160)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan159">CSC 322: </tspan></text>
+    <text
+       id="text160"
+       xml:space="preserve"
+       transform="translate(201.90998,656.28866)"
+       clip-path="url(#clipPath161)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 13.038667 19.536001 26.033335 33.366669 37.429333 44.762669 51.260002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan160">Machine </tspan></text>
+    <text
+       id="text161"
+       xml:space="preserve"
+       transform="translate(201.09773,674.28867)"
+       clip-path="url(#clipPath162)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.9466667 15.444 21.941334 26.825335 34.158669 38.221333 45.554668"
+         y="0"
+         sodipodi:role="line"
+         id="tspan161">Learning</tspan></text>
+    <path
+       id="path163"
+       d="m 113907.83,270606.7 v 0 c 0,-1981.64 1606.43,-3588.08 3588.07,-3588.08 h 34523.85 c 951.63,0 1864.27,378.04 2537.15,1050.91 672.9,672.91 1050.93,1585.53 1050.93,2537.17 v 14351.83 c 0,1981.67 -1606.44,3588.09 -3588.08,3588.09 H 117495.9 c -1981.64,0 -3588.07,-1606.42 -3588.07,-3588.09 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath164)" />
+    <text
+       id="text164"
+       xml:space="preserve"
+       transform="translate(324.98373,716.16824)"
+       clip-path="url(#clipPath165)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan164">CSC 323: </tspan></text>
+    <text
+       id="text165"
+       xml:space="preserve"
+       transform="translate(313.39399,734.16824)"
+       clip-path="url(#clipPath166)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.1546669 13.038667 20.372 27.705334 32.589333 39.086666 50.482666 61.87867 65.941338 73.274666 80.608002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan165">Programming </tspan></text>
+    <text
+       id="text166"
+       xml:space="preserve"
+       transform="translate(321.95301,752.16824)"
+       clip-path="url(#clipPath167)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.9466667 15.444 22.777334 30.110668 37.444 43.941334 51.27467 57.772003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan166">Languages</tspan></text>
+    <path
+       id="path168"
+       d="m 17783.502,240934.58 v 0 c 0,-1981.64 1606.434,-3588.08 3588.07,-3588.08 H 55895.43 c 951.617,0 1864.254,378.03 2537.15,1050.92 672.893,672.89 1050.92,1585.53 1050.92,2537.16 v 14351.84 c 0,1981.64 -1606.434,3588.08 -3588.07,3588.08 H 21371.572 c -1981.636,0 -3588.07,-1606.44 -3588.07,-3588.08 z"
+       style="fill:url(#linearGradient169);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath169)" />
+    <text
+       id="text169"
+       xml:space="preserve"
+       transform="translate(72.688902,638.28866)"
+       clip-path="url(#clipPath170)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan169">CSC 324: </tspan></text>
+    <text
+       id="text170"
+       xml:space="preserve"
+       transform="translate(88.154243,656.28866)"
+       clip-path="url(#clipPath171)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 12.657333 19.154667 26.488001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan170">Web </tspan></text>
+    <text
+       id="text171"
+       xml:space="preserve"
+       transform="translate(66.799207,674.28867)"
+       clip-path="url(#clipPath172)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 8.1546669 13.038667 20.372 27.705334 32.589333 39.086666 50.482666 54.545334 61.87867"
+         y="0"
+         sodipodi:role="line"
+         id="tspan171">Programing</tspan></text>
+    <path
+       id="path173"
+       d="m 210032.16,240934.58 v 0 c 0,-1981.64 1606.44,-3588.08 3588.06,-3588.08 h 34523.86 c 951.62,0 1864.26,378.03 2537.15,1050.92 672.89,672.89 1050.93,1585.53 1050.93,2537.16 v 14351.84 c 0,1981.64 -1606.44,3588.08 -3588.08,3588.08 h -34523.86 c -1981.62,0 -3588.06,-1606.44 -3588.06,-3588.08 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath174)" />
+    <text
+       id="text174"
+       xml:space="preserve"
+       transform="translate(585.11451,635.44866)"
+       clip-path="url(#clipPath175)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 7.1040001 13.034667 20.138668 22.805334 28.138668 33.472 38.805336 41.760002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan174">CSC 326: </tspan></text>
+    <text
+       id="text175"
+       xml:space="preserve"
+       transform="translate(576.69825,648.44866)"
+       clip-path="url(#clipPath176)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.482667 14.208 17.162666 22.496 27.221334 35.509335 40.234669 43.189335 46.144001 50.869335 55.594669 58.549335"
+         y="0"
+         sodipodi:role="line"
+         id="tspan175">Mathematical </tspan></text>
+    <text
+       id="text176"
+       xml:space="preserve"
+       transform="translate(573.58411,661.44866)"
+       clip-path="url(#clipPath177)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 6.5066667 11.84 17.173334 21.898668 25.450668 28.405334 36.693333 41.418667 46.752003 49.706669 53.856003 56.522667 59.477337 64.810669"
+         y="0"
+         sodipodi:role="line"
+         id="tspan176">Experiments in </tspan></text>
+    <text
+       id="text177"
+       xml:space="preserve"
+       transform="translate(566.78086,674.44866)"
+       clip-path="url(#clipPath178)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 7.1040001 12.437334 20.725334 26.058668 31.392 34.346668 39.072002 42.624001 45.290668 51.221336 55.946667 58.901337 63.626667 68.959999 73.685333"
+         y="0"
+         sodipodi:role="line"
+         id="tspan177">Computer Science</tspan></text>
+    <path
+       id="path179"
+       d="m 210032.16,270606.7 v 0 c 0,-1981.64 1606.44,-3588.08 3588.06,-3588.08 h 34523.86 c 951.62,0 1864.26,378.04 2537.15,1050.91 672.89,672.91 1050.93,1585.53 1050.93,2537.17 v 14351.83 c 0,1981.67 -1606.44,3588.09 -3588.08,3588.09 h -34523.86 c -1981.62,0 -3588.06,-1606.42 -3588.06,-3588.09 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath180)" />
+    <text
+       id="text180"
+       xml:space="preserve"
+       transform="translate(564.25729,719.82824)"
+       clip-path="url(#clipPath181)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 7.1040001 13.034667 20.138668 22.805334 28.138668 33.472 38.805336 41.760002 44.426666 52.128002 56.853336 59.808002 64.533333 69.866669 74.592003 78.741333 83.466667"
+         y="0"
+         sodipodi:role="line"
+         id="tspan180">CSC 325: Database </tspan></text>
+    <text
+       id="text181"
+       xml:space="preserve"
+       transform="translate(578.17598,732.82824)"
+       clip-path="url(#clipPath182)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.482667 14.208 19.541334 24.266668 29.6 34.325333 42.613335 47.338669 52.672001 55.626667"
+         y="0"
+         sodipodi:role="line"
+         id="tspan181">Management </tspan></text>
+    <text
+       id="text182"
+       xml:space="preserve"
+       transform="translate(588.22605,745.82824)"
+       clip-path="url(#clipPath183)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 5.9306669 11.264 15.413334 18.368 23.093334 31.381334"
+         y="0"
+         sodipodi:role="line"
+         id="tspan182">Systems</tspan></text>
+    <path
+       id="path184"
+       d="m 38633.5,300278.8 v 0 c 0,-1981.64 1606.434,-3588.08 3588.074,-3588.08 H 76745.43 c 951.62,0 1864.26,378.03 2537.15,1050.94 672.9,672.9 1050.92,1585.54 1050.92,2537.14 v 14351.86 c 0,1981.64 -1606.43,3588.06 -3588.07,3588.06 H 42221.574 c -1981.64,0 -3588.074,-1606.42 -3588.074,-3588.06 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath185)" />
+    <text
+       id="text185"
+       xml:space="preserve"
+       transform="translate(127.41331,794.0478)"
+       clip-path="url(#clipPath186)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan185">CSC 382: </tspan></text>
+    <text
+       id="text186"
+       xml:space="preserve"
+       transform="translate(129.26681,812.0478)"
+       clip-path="url(#clipPath187)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 15.473333 19.536001 23.598667 28.482668 32.545334 39.042667 43.105335 49.602669 53.665333"
+         y="0"
+         sodipodi:role="line"
+         id="tspan186">Artificial </tspan></text>
+    <text
+       id="text187"
+       xml:space="preserve"
+       transform="translate(121.53793,830.0478)"
+       clip-path="url(#clipPath188)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 4.8840003 12.217334 16.280001 22.777334 26.84 30.902668 34.965336 42.298668 48.796001 56.129333 62.626667"
+         y="0"
+         sodipodi:role="line"
+         id="tspan187">Intelligence</tspan></text>
+    <path
+       id="path189"
+       d="m 86695.664,300278.8 v 0 c 0,-1981.64 1606.436,-3588.08 3588.07,-3588.08 h 34523.856 c 951.62,0 1864.26,378.03 2537.15,1050.94 672.89,672.9 1050.92,1585.54 1050.92,2537.14 v 14351.86 c 0,1981.64 -1606.43,3588.06 -3588.07,3588.06 H 90283.734 c -1981.634,0 -3588.07,-1606.42 -3588.07,-3588.06 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath190)" />
+    <text
+       id="text190"
+       xml:space="preserve"
+       transform="translate(253.56073,794.0478)"
+       clip-path="url(#clipPath191)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan190">CSC 390: </tspan></text>
+    <text
+       id="text191"
+       xml:space="preserve"
+       transform="translate(252.96317,812.0478)"
+       clip-path="url(#clipPath192)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.101334 28.497334 35.830666 43.164001 47.226669 53.724003 58.608002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan191">Computer </tspan></text>
+    <text
+       id="text192"
+       xml:space="preserve"
+       transform="translate(253.779,830.0478)"
+       clip-path="url(#clipPath193)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 17.086666 21.149334 31.738667 39.072002 43.956001 51.289333"
+         y="0"
+         sodipodi:role="line"
+         id="tspan192">Networks</tspan></text>
+    <path
+       id="path194"
+       d="m 134757.83,300278.8 v 0 c 0,-1981.64 1606.44,-3588.08 3588.07,-3588.08 h 34523.85 c 951.63,0 1864.27,378.03 2537.15,1050.94 672.9,672.9 1050.93,1585.54 1050.93,2537.14 v 14351.86 c 0,1981.64 -1606.44,3588.06 -3588.08,3588.06 H 138345.9 c -1981.63,0 -3588.07,-1606.42 -3588.07,-3588.06 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath195)" />
+    <text
+       id="text195"
+       xml:space="preserve"
+       transform="translate(379.70813,794.0478)"
+       clip-path="url(#clipPath196)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 9.7680006 17.922667 27.690668 31.357334 38.690666 46.024002 53.357334 57.420002"
+         y="0"
+         sodipodi:role="line"
+         id="tspan195">CSC 393: </tspan></text>
+    <text
+       id="text196"
+       xml:space="preserve"
+       transform="translate(377.49323,812.0478)"
+       clip-path="url(#clipPath197)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 17.922667 29.318666 35.816002 40.700001 44.762669 51.260002 57.757336 61.82"
+         y="0"
+         sodipodi:role="line"
+         id="tspan196">Numerical </tspan></text>
+    <text
+       id="text197"
+       xml:space="preserve"
+       transform="translate(382.77106,830.0478)"
+       clip-path="url(#clipPath198)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:14.66666667px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:14.66666667px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 10.589334 17.922667 24.42 28.482668 35.816002 41.521336 45.584"
+         y="0"
+         sodipodi:role="line"
+         id="tspan197">Analysis</tspan></text>
+    <path
+       id="path199"
+       d="m 182819.98,300278.8 v 0 c 0,-1981.64 1606.44,-3588.08 3588.08,-3588.08 h 34523.86 c 951.61,0 1864.25,378.03 2537.14,1050.94 672.91,672.9 1050.92,1585.54 1050.92,2537.14 v 14351.86 c 0,1981.64 -1606.42,3588.06 -3588.06,3588.06 h -34523.86 c -1981.64,0 -3588.08,-1606.42 -3588.08,-3588.06 z"
+       style="fill:#d9ead3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath200)" />
+    <text
+       id="text200"
+       xml:space="preserve"
+       transform="translate(493.75638,797.4878)"
+       clip-path="url(#clipPath201)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 7.9920001 14.664 22.656 25.656 31.656 37.655998 43.655998 46.98 49.764 56.256001 62.256001 68.255997 71.580002 76.896004 81.564003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan200">CSC 399: Topics </tspan></text>
+    <text
+       id="text201"
+       xml:space="preserve"
+       transform="translate(504.40287,811.4878)"
+       clip-path="url(#clipPath202)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 3.3239999 9.3240004 12.324 20.316 26.316 35.639999 41.639999 47.639999 50.964001 56.279999 60.276001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan201">in Computer </tspan></text>
+    <text
+       id="text202"
+       xml:space="preserve"
+       transform="translate(515.91068,825.4878)"
+       clip-path="url(#clipPath203)"
+       style="-inkscape-font-specification:'Georgia, Normal';font-family:Georgia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Georgia;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;-inkscape-font-specification:'Georgia, Normal';font-style:normal;font-stretch:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="0 6.6719999 11.988 15.312 20.628 26.628 31.944"
+         y="0"
+         sodipodi:role="line"
+         id="tspan202">Science</tspan></text>
+    <path
+       id="path204"
+       d="m 140772,159846 v 25387.69 h 42048 V 237342"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath205)" />
+    <path
+       id="path206"
+       d="m 140772,159846 v 25387.69 h 42048 V 235056"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath207)" />
+    <path
+       id="path208"
+       d="m 182190.69,235056 629.31,1729.02 629.31,-1729.02 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath209)" />
+    <path
+       id="path210"
+       d="m 134758,221187 v 16164"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath211)" />
+    <path
+       id="path212"
+       d="m 134758,221187 v 13878"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath213)" />
+    <path
+       id="path214"
+       d="m 134128.69,235065 629.31,1729.02 629.31,-1729.02 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath215)" />
+    <path
+       id="path216"
+       d="m 140772,159846 v 25397.77 h 90108 V 237342"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath217)" />
+    <path
+       id="path218"
+       d="m 140772,159846 v 25397.77 h 90108 V 235056"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath219)" />
+    <path
+       id="path220"
+       d="m 230250.69,235056 629.31,1729.02 629.31,-1729.02 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath221)" />
+    <path
+       id="path222"
+       d="M 86695.664,237346.5 V 185243.61 H 140767.66 V 159850.5"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath223)" />
+    <path
+       id="path224"
+       d="M 86695.664,235060.5 V 185243.61 H 140767.66 V 159850.5"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath225)" />
+    <path
+       id="path226"
+       d="m 86066.35,235060.5 629.314,1729.02 629.316,-1729.02 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath227)" />
+    <path
+       id="path228"
+       d="m 294837,159846.5 372,21204"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath229)" />
+    <path
+       id="path230"
+       d="m 294837,159846.5 331.9,18918.36"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath231)" />
+    <path
+       id="path232"
+       d="m 294539.7,178775.89 659.52,1717.71 598.9,-1739.79 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath233)" />
+    <path
+       id="path234"
+       d="m 140772,159846 v 25397.38 H 48648 V 190710"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath235)" />
+    <path
+       id="path236"
+       d="m 140772,159846 v 25397.38 H 48648 V 188424"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath237)" />
+    <path
+       id="path238"
+       d="m 48018.69,188424 629.31,1729.02 629.31,-1729.02 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath239)" />
+    <path
+       id="path240"
+       d="m 179918,97530 v 15918 h -39144 v 15918"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath241)" />
+    <path
+       id="path242"
+       d="m 257992,97530.5 v 15917.68 H 140776 v 15918.32"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath243)" />
+    <path
+       id="path244"
+       d="m 257992,97530.5 v 15917.68 H 140776 v 13632.32"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath245)" />
+    <path
+       id="path246"
+       d="m 140146.69,127080.5 629.31,1729.02 629.31,-1729.02 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath247)" />
+    <path
+       id="path248"
+       d="m 257992,97530.5 v 15918 h 36840 v 15918"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath249)" />
+    <path
+       id="path250"
+       d="m 257992,97530.5 v 15918 h 36840 v 13632"
+       style="fill:none;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath251)" />
+    <path
+       id="path252"
+       d="m 294202.7,127080.5 629.3,1729.02 629.3,-1729.02 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(0.00262467)"
+       clip-path="url(#clipPath253)" />
+  </g>
+</svg>
